@@ -1,8 +1,8 @@
-title: Ruang Belajar - Python
+title: Digital Belajar - Python
 description: Repositori catatan belajar bahasa pemrograman Python
-domain: pujangga123.github.io
-url: http://ruang-belajar.github.io/python
-github_username:  pujangga123
+domain: digital-belajar.github.io
+url: http://digital-belajar.github.io/python
+github_username:  digital-belajar
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
