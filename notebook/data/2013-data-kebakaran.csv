@@ -1,0 +1,871 @@
+no,tanggal,bulan,hari,keterangan,sumber_info,waktu_info,kelurahan,kecamatan,wilayah,objek_awal,jenis_bangunan,penyebab,korban_jiwa,kerugian
+1,1,1,Selasa,Bencana Kebakaran,Petugas Pemadam,0:05,Semper Barat,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Lain,4,300000000
+2,1,1,Selasa,Bencana Kebakaran,Masyarakat,5:00,Pekayon,Pasar Rebo,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,3,20000000
+3,1,1,Selasa,Bencana Kebakaran,Masyarakat,10:00,Wijaya Kusuma,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,80,750000000
+4,1,1,Selasa,Bencana Kebakaran,Petugas Instansi Lain,0:00,Utan Panjang,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,12,200000000
+5,2,1,Rabu,Bencana Kebakaran,Petugas Pemadam,19:30,Meruya Selatan,Kembangan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,0,600000000
+6,2,1,Rabu,Bencana Kebakaran,Masyarakat,13:30,Duri Kosambi,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,0,700000000
+7,3,1,Kamis,Bencana Kebakaran,Masyarakat,4:50,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Toko Bangunan,Bangunan Rendah,Listrik,0,1000000
+9,4,1,Jumat,Bencana Kebakaran,Masyarakat,19:45,Jati,Pulogadung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,2,200000000
+10,5,1,Sabtu,Bencana Kebakaran,Petugas Pemadam,16:00,Kebon Kelapa,Gambir,Kota Administrasi Jakarta Pusat,Bangunan Umum,Bangunan Rendah,Listrik,0,50000000
+11,6,1,Minggu,Bencana Kebakaran,Petugas Instansi Lain,8:15,Palmerah,Palmerah,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,6,150000000
+12,6,1,Minggu,Bencana Kebakaran,Masyarakat,19:00,Cililitan,Kramat Jati,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,12,900000000
+13,6,1,Minggu,Bencana Kebakaran,Masyarakat,19:00,Setiabudi,Setiabudi,Kota Administrasi Jakarta Selatan,Gedung,Bangunan Tinggi,Listrik,0,2000000000
+14,7,1,Senin,Bencana Kebakaran,Masyarakat,19:11,Semanan,Kalideres,Kota Administrasi Jakarta Barat,Warung,Bangunan Rendah,Listrik,0,1000000
+15,8,1,Selasa,Bencana Kebakaran,Masyarakat,11:00,Menteng Dalam,Tebet,Kota Administrasi Jakarta Selatan,Filter Air,Bangunan Tinggi,Lain,0,10000000
+16,8,1,Selasa,Bencana Kebakaran,Masyarakat,17:30,Tangerang,Tangerang,Kota Tangerang,Rumah Tinggal,Bangunan Rendah,Listrik,2,250000000
+17,8,1,Selasa,Bencana Kebakaran,Petugas Pemadam,8:30,Mangga Dua Selatan,Sawah Besar,Kota Administrasi Jakarta Pusat,Pompa Air,Bangunan Rendah,Lain,0,25000000
+18,8,1,Selasa,Bencana Kebakaran,Masyarakat,20:30,Pasar Baru,Sawah Besar,Kota Administrasi Jakarta Pusat,Bangunan Pertokoan,Bangunan Menengah,Listrik,0,3500000000
+19,9,1,Rabu,Bencana Kebakaran,Masyarakat,16:20,Makasar,Makasar,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,5,25000000
+20,9,1,Rabu,Bencana Kebakaran,Masyarakat,20:25,Pademangan Barat,Pademangan,Kota Administrasi Jakarta Utara,Gedung WTC Mangga Dua,Bangunan Tinggi,Listrik,0,100000000
+21,9,1,Rabu,Bencana Kebakaran,Masyarakat,12:38,Ciracas,Ciracas,Kota Administrasi Jakarta Timur,Percetakan,Bangunan Menengah,Listrik,0,30000000
+23,9,1,Rabu,Bencana Kebakaran,Masyarakat,1:50,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Lapak Pemulung,Bangunan Rendah,Listrik,60,650000000
+25,10,1,Kamis,Bencana Kebakaran,Masyarakat,14:50,Kedoya Selatan,Kebun Jeruk,Kota Administrasi Jakarta Barat,Mobil Carry,,Listrik,0,50000000
+26,10,1,Kamis,Bencana Kebakaran,Masyarakat,13:45,Kalisari,Pasar Rebo,Kota Administrasi Jakarta Timur,Ruko,Bangunan Rendah,Listrik,5,100000000
+27,10,1,Kamis,Bencana Kebakaran,Masyarakat,15:10,Sunter Agung,Tanjung Priok,Kota Administrasi Jakarta Utara,Bedeng,Bangunan Rendah,Listrik,0,30000000
+63,11,1,Jumat,Bencana Kebakaran,Petugas Instansi Lain,22:35,Cipinang Besar Utara,Jatinegara,Kota Administrasi Jakarta Timur,Lapas Cipinang,Bangunan Menengah,Listrik,0,480000000
+67,12,1,Sabtu,Bencana Kebakaran,Masyarakat,1:00,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Kabel Telkom,Bangunan Rendah,Listrik,0,10000000
+68,12,1,Sabtu,Bencana Kebakaran,Alarm Kota,8:40,Kalibata,Pancoran,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,2,5000000
+71,13,1,Minggu,Bencana Kebakaran,Masyarakat,10:25,Penggilingan,Cakung,Kota Administrasi Jakarta Timur,Motor,Bangunan Rendah,Lain,0,250000000
+72,13,1,Minggu,Bencana Kebakaran,Masyarakat,10:00,Pisangan timur,Pulogadung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,0,2000000
+75,14,1,Senin,Bencana Kebakaran,Masyarakat,5:30,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,0,10000000
+76,14,1,Senin,Bencana Kebakaran,Masyarakat,1:00,Bambu Apus,Cipayung,Kota Administrasi Jakarta Timur,Mobil Opel Blazer,,Listrik,0,95000000
+77,15,1,Selasa,Bencana Kebakaran,Petugas Pemadam,22:45,Keagungan,Tamansari,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,65,700000000
+78,15,1,Selasa,Bencana Kebakaran,Masyarakat,15:00,Cipete Selatan,Cilandak,Kota Administrasi Jakarta Selatan,Gedung Studio Duta Bangsa,Bangunan Menengah,Listrik,0,1000000000
+79,15,1,Selasa,Bencana Kebakaran,Masyarakat,4:05,Rawamangun,Pulogadung,Kota Administrasi Jakarta Timur,Show Room,Bangunan Menengah,Listrik,0,200000000
+80,15,1,Selasa,Bencana Kebakaran,Petugas Pemadam,16:00,Tambora,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,60,1100000000
+99,16,1,Rabu,Bencana Kebakaran,Masyarakat,21:40,Cililitan,Kramat Jati,Kota Administrasi Jakarta Timur,Gardu listrik,Bangunan Rendah,Listrik,0,500000000
+100,16,1,Rabu,Bencana Kebakaran,Masyarakat,17:10,Kebayoran Lama Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Mobil Suzuki Katana,,Listrik,0,1000000
+101,16,1,Rabu,Bencana Kebakaran,Masyarakat,21:13,Cengkareng Timur,Cengkareng,Kota Administrasi Jakarta Barat,Toko Klontong,Bangunan Rendah,Lain,12,50000000
+102,16,1,Rabu,Bencana Kebakaran,Masyarakat,21:55,Lebak Bulus,Cilandak,Kota Administrasi Jakarta Selatan,Pabrik Tahu,Bangunan Rendah,Lain,0,3000000
+112,17,1,Kamis,Bencana Kebakaran,Petugas Instansi Lain,0:15,Bidara Cina,Jatinegara,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,4,60000000
+114,17,1,Kamis,Bencana Kebakaran,Masyarakat,7:30,gondangdia,Menteng,Kota Administrasi Jakarta Pusat,Ruangan caffe fisa,Bangunan Rendah,Listrik,0,20000000
+115,17,1,Kamis,Bencana Kebakaran,Masyarakat,9:00,Gunung Sahari Utara,Sawah Besar,Kota Administrasi Jakarta Pusat,Ruang Istirahat,Bangunan Rendah,Listrik,0,100000000
+116,17,1,Kamis,Bencana Kebakaran,Masyarakat,21:01,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,,Listrik,0,15000000
+117,17,1,Kamis,Bencana Kebakaran,Masyarakat,17:00,Pinangsia,Tamansari,Kota Administrasi Jakarta Barat,Ruko 4 Lantai,,Listrik,0,10000000
+118,17,1,Kamis,Bencana Kebakaran,Masyarakat,18:30,Bendungan Hilir,Tanah Abang,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Lain,0,600000000
+119,17,1,Kamis,Bencana Kebakaran,Masyarakat,13:35,Pisangan Baru,Matraman,Kota Administrasi Jakarta Timur,Instalasi Listrik atas plafon,Bangunan Rendah,Listrik,4,50000000
+121,17,1,Kamis,Bencana Kebakaran,Masyarakat,15:15,Lubang Buaya,Cipayung,Kota Administrasi Jakarta Timur,Mesin Cuci,Bangunan Rendah,Listrik,4,20000000
+230,18,1,Jumat,Bencana Kebakaran,Petugas Instansi Lain,9:55,Gunung Sahari Selatan,Kemayoran,Kota Administrasi Jakarta Pusat,Kendaraan,,Listrik,0,40000000
+231,18,1,Jumat,Bencana Kebakaran,Masyarakat,22:45,Kalibaru,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,9,100000000
+232,18,1,Jumat,Bencana Kebakaran,Masyarakat,3:45,Halim Perdana Kusuma,Makasar,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,5,490000000
+234,18,1,Jumat,Bencana Kebakaran,Petugas Instansi Lain,18:25,Grogol,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Lain,0,1000000
+235,18,1,Jumat,Bencana Kebakaran,Masyarakat,11:10,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,70,950000000
+236,18,1,Jumat,Bencana Kebakaran,Masyarakat,1:01,Tanah Sereal,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,,Listrik,0,10000000
+237,18,1,Jumat,Bencana Kebakaran,Petugas Instansi Lain,20:00,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal Petak,Bangunan Rendah,Lampu,4,100000000
+382,19,1,Sabtu,Bencana Kebakaran,Masyarakat,9:20,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Lain,3,10000000
+383,19,1,Sabtu,Bencana Kebakaran,Masyarakat,21:25,Jelambar,Grogol Petamburan,Kota Administrasi Jakarta Barat,Genset,,Listrik,0,15000000
+384,19,1,Sabtu,Bencana Kebakaran,Masyarakat,11:00,Jembatan Besi,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,,Listrik,0,15000000
+385,19,1,Sabtu,Bencana Kebakaran,Masyarakat,11:01,Pela Mampang,Mampang Prapatan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,12,500000000
+399,20,1,Minggu,Bencana Kebakaran,Masyarakat,18:30,Kota Bambu Utara,Palmerah,Kota Administrasi Jakarta Barat,Kios,,Listrik,0,500000000
+400,20,1,Minggu,Bencana Kebakaran,Masyarakat,19:15,Kuningan Timur,Setiabudi,Kota Administrasi Jakarta Selatan,Mobil,,Listrik,0,75000000
+428,21,1,Senin,Bencana Kebakaran,Masyarakat,19:35,Kota Bambu Utara,Palmerah,Kota Administrasi Jakarta Barat,Motor Terbakar,,Listrik,0,15000000
+429,21,1,Senin,Bencana Kebakaran,Masyarakat,13:45,Kembangan Utara,Kembangan,Kota Administrasi Jakarta Barat,Mobil Terbakar,,Listrik,0,120000000
+436,22,1,Selasa,Bencana Kebakaran,Petugas Pemadam,19:30,Pademangan Barat,Pademangan,Kota Administrasi Jakarta Utara,Mobil Suzuki Apv,,Listrik,0,75000000
+437,22,1,Selasa,Bencana Kebakaran,Masyarakat,3:50,Sumur Batu,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,10,20000000
+445,23,1,Rabu,Bencana Kebakaran,Petugas Pemadam,19:10,Kebon Kacang,Tanah Abang,Kota Administrasi Jakarta Pusat,Kompor Warung,Bangunan Rendah,Kompor,0,500000000
+446,24,1,Kamis,Bencana Kebakaran,Masyarakat,2:25,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Lilin,Bangunan Rendah,Lain,10,200000000
+452,25,1,Jumat,Bencana Kebakaran,Masyarakat,8:35,Kamal Muara,Penjaringan,Kota Administrasi Jakarta Utara,Gudang Furniture,Bangunan Menengah,Listrik,0,1000000000
+453,25,1,Jumat,Bencana Kebakaran,Masyarakat,12:55,Kemayoran,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,5,50000000
+462,28,1,Senin,Bencana Kebakaran,Masyarakat,2:15,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,3,400000000
+463,28,1,Senin,Bencana Kebakaran,Masyarakat,13:00,Manggarai,Tebet,Kota Administrasi Jakarta Selatan,Bengkel Motor,Bangunan Rendah,Listrik,0,60000000
+464,28,1,Senin,Bencana Kebakaran,Masyarakat,22:00,Bungur,Senen,Kota Administrasi Jakarta Pusat,Cerobong PT Remanta,,Lain,0,5000000
+466,28,1,Senin,Bencana Kebakaran,Masyarakat,18:50,Jelambar Baru,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Kontrakan,Bangunan Rendah,Listrik,3,10000000
+468,29,1,Selasa,Bencana Kebakaran,Petugas Pemadam,22:00,Cideng,Gambir,Kota Administrasi Jakarta Pusat,Pertokoan,Bangunan Rendah,Listrik,0,20000000
+469,29,1,Selasa,Bencana Kebakaran,Masyarakat,22:50,Grogol Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,7,10000000
+471,30,1,Rabu,Bencana Kebakaran,Masyarakat,23:00,Bungur,Senen,Kota Administrasi Jakarta Pusat,Gedung,Bangunan Tinggi,Listrik,0,10000000
+473,31,1,Kamis,Bencana Kebakaran,Masyarakat,2:53,Kalisari,Pasar Rebo,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,2,20000000
+475,1,2,Jumat,Bencana Kebakaran,Masyarakat,4:20,Meruya Selatan,Kembangan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,11,100000000
+476,1,2,Jumat,Bencana Kebakaran,Masyarakat,4:40,Kalideres,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,5,150000000
+477,1,2,Jumat,Bencana Kebakaran,Masyarakat,10:15,Tangerang,Tangerang,Kota Tangerang,Rumah Kontrakan,Bangunan Rendah,Listrik,6,90000000
+479,3,2,Minggu,Bencana Kebakaran,Masyarakat,15:00,Kampung Tengah,Kramat Jati,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,5,20000000
+487,4,2,Senin,Bencana Kebakaran,Masyarakat,16:45,Sukapura,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,3,40000000
+488,4,2,Senin,Bencana Kebakaran,Petugas Instansi Lain,15:24,Duren Sawit,Duren Sawit,Kota Administrasi Jakarta Timur,Alat Pemecah Awan,,Lain,0,30000000
+493,6,2,Rabu,Bencana Kebakaran,Petugas Instansi Lain,15:20,Senayan,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Bengkel Kafe,Bangunan Menengah,Listrik,0,1000000000
+495,6,2,Rabu,Bencana Kebakaran,Petugas Pemadam,10:30,Mangga Besar,Tamansari,Kota Administrasi Jakarta Barat,Ruko,Bangunan Menengah,Listrik,0,1750000000
+496,6,2,Rabu,Bencana Kebakaran,Masyarakat,21:00,Kebagusan,Pasar Minggu,Kota Administrasi Jakarta Selatan,Kabel PLN,,Listrik,0,1000000
+498,7,2,Kamis,Bencana Kebakaran,Petugas Instansi Lain,17:30,Duri Selatan,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,40,750000000
+499,8,2,Jumat,Bencana Kebakaran,Petugas Pemadam,2:45,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,0,450000000
+500,9,2,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,2:10,Pasar Baru,Sawah Besar,Kota Administrasi Jakarta Pusat,Mobil,,Lain,0,100000000
+501,9,2,Sabtu,Bencana Kebakaran,Masyarakat,3:20,Klender,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,10,200000000
+502,9,2,Sabtu,Bencana Kebakaran,Masyarakat,7:13,Cempaka Putih Barat,Cempaka Putih,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,4,20000000
+504,9,2,Sabtu,Bencana Kebakaran,Masyarakat,21:55,Gunung,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Mobil Taxi,,Listrik,0,10000000
+505,9,2,Sabtu,Bencana Kebakaran,Masyarakat,11:10,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Gudang Ikan Asin,Bangunan Rendah,Listrik,0,30000000
+506,9,2,Sabtu,Bencana Kebakaran,Masyarakat,19:05,Duri Kosambi,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,3,35000000
+511,9,2,Sabtu,Bencana Kebakaran,Masyarakat,18:48,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Kabel PLN,,Listrik,0,3000000
+519,10,2,Minggu,Bencana Kebakaran,Petugas Instansi Lain,22:15,Cempaka Putih Timur,Cempaka Putih,Kota Administrasi Jakarta Pusat,Mobil,,Listrik,0,40000000
+521,11,2,Senin,Bencana Kebakaran,Masyarakat,4:20,Jelambar baru,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Makan,Bangunan Rendah,Listrik,0,5750000
+522,11,2,Senin,Bencana Kebakaran,Masyarakat,13:45,Kebon Jeruk,Kebun Jeruk,Kota Administrasi Jakarta Barat,Tiang Listrik,,Listrik,0,2000000
+523,11,2,Senin,Bencana Kebakaran,Petugas Instansi Lain,16:00,Tangerang,Tangerang,Kota Tangerang,Gudang,Bangunan Menengah,Listrik,,1000000000
+525,12,2,Selasa,Bencana Kebakaran,Masyarakat,17:20,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Warung Nasi,Bangunan Rendah,Listrik,0,20000000
+526,13,2,Rabu,Bencana Kebakaran,Masyarakat,13:15,Kwitang,Senen,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,15,750000000
+527,13,2,Rabu,Bencana Kebakaran,Masyarakat,16:30,Depok,Depok,Kota Depok,Gudang,Bangunan Rendah,Lain,,300000000
+528,13,2,Rabu,Bencana Kebakaran,Masyarakat,18:20,Pademangan Timur,Pademangan,Kota Administrasi Jakarta Utara,PT. Mutanic Indovat,Bangunan Rendah,Listrik,0,20000000000
+529,13,2,Rabu,Bencana Kebakaran,Petugas Instansi Lain,22:28,Bukit Duri,Tebet,Kota Administrasi Jakarta Selatan,Kulkas,Bangunan Rendah,Lain,5,2000000
+530,13,2,Rabu,Bencana Kebakaran,Masyarakat,21:28,Tangerang,Tangerang,Kota Tangerang,Korsleting saklar,Bangunan Rendah,Listrik,3,600000000
+531,15,2,Jumat,Bencana Kebakaran,Masyarakat,1:10,Bekasi,Bekasi,Kota Bekasi,Rumah Tinggal,Bangunan Rendah,Listrik,20,500000000
+532,15,2,Jumat,Bencana Kebakaran,Petugas Pemadam,8:55,Bali Mester,Jatinegara,Kota Administrasi Jakarta Timur,PT .Kwintang LT 2,Bangunan Rendah,Listrik,0,10000000
+533,15,2,Jumat,Bencana Kebakaran,Masyarakat,17:00,Karet Tengsin,Tanah Abang,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Kompor,25,10000000
+534,16,2,Sabtu,Bencana Kebakaran,Masyarakat,4:47,Tebet Timur,Tebet,Kota Administrasi Jakarta Selatan,Dispenser dan kulkas,,Listrik,2,5000000
+535,17,2,Minggu,Bencana Kebakaran,Masyarakat,0:25,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal semi permanen,Bangunan Rendah,Listrik,50,30000000
+538,17,2,Minggu,Bencana Kebakaran,Masyarakat,21:21,Pegadungan,Kalideres,Kota Administrasi Jakarta Barat,Gardu listrik,Bangunan Rendah,Listrik,1,250000000
+539,18,2,Senin,Bencana Kebakaran,Masyarakat,11:05,Duri Kepa,Kebun Jeruk,Kota Administrasi Jakarta Barat,Warung Nasi Padang,Bangunan Rendah,Kompor,0,50000000
+540,18,2,Senin,Bencana Kebakaran,Masyarakat,18:00,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Lain,0,5000000
+541,19,2,Selasa,Bencana Kebakaran,Masyarakat,12:25,Cipinang Cimpedak,Jatinegara,Kota Administrasi Jakarta Timur,Gardu listrik,Bangunan Rendah,Listrik,0,10000000
+543,19,2,Selasa,Bencana Kebakaran,Masyarakat,12:15,Tangerang,Tangerang,Kota Tangerang,Toko Gypsum,Bangunan Rendah,Listrik,,10000000
+545,20,2,Rabu,Bencana Kebakaran,Petugas Instansi Lain,11:10,Rawa Buaya,Cengkareng,Kota Administrasi Jakarta Barat,Pabrik Pengolahan Kayu,Bangunan Rendah,Lain,0,20000000
+547,20,2,Rabu,Bencana Kebakaran,Masyarakat,15:15,Petogogan,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Panel Listrik Restoran,,Listrik,0,1000000
+549,21,2,Kamis,Bencana Kebakaran,Masyarakat,0:05,Menteng Dalam,Tebet,Kota Administrasi Jakarta Selatan,Rumah Kosan,Bangunan Rendah,Listrik,0,100000000
+550,21,2,Kamis,Bencana Kebakaran,Masyarakat,17:20,Kebon Bawang,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,0,5000000
+551,22,2,Jumat,Bencana Kebakaran,Masyarakat,9:30,Cipete Utara,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,6,900000000
+552,22,2,Jumat,Bencana Kebakaran,Masyarakat,18:40,Sunter Agung,Tanjung Priok,Kota Administrasi Jakarta Utara,Toko Alat- alat Olah Raga,Bangunan Menengah,Listrik,0,2000000000
+554,24,2,Minggu,Bencana Kebakaran,Petugas Pemadam,8:50,Pademangan Barat,Pademangan,Kota Administrasi Jakarta Utara,Rumah Petakan,Bangunan Rendah,Listrik,12,700000000
+555,25,2,Senin,Bencana Kebakaran,Petugas Pemadam,19:02,Ciganjur,Jagakarsa,Kota Administrasi Jakarta Selatan,Kabel Listrik PLN,Bangunan Rendah,Listrik,0,2000000
+556,26,2,Selasa,Bencana Kebakaran,Masyarakat,17:40,Kampung Bali,Tanah Abang,Kota Administrasi Jakarta Pusat,Gedung BPPT,Bangunan Tinggi,Rokok,0,5000000
+557,26,2,Selasa,Bencana Kebakaran,Masyarakat,23:55,Kampung Tengah,Kramat Jati,Kota Administrasi Jakarta Timur,Pasar Induk,Bangunan Rendah,Lain,0,1300000000
+560,28,2,Kamis,Bencana Kebakaran,Masyarakat,3:30,Cipayung,Cipayung,Kota Administrasi Jakarta Timur,Gudang Kasur,Bangunan Rendah,Listrik,6,100000000
+561,28,2,Kamis,Bencana Kebakaran,Masyarakat,8:00,Pasar Minggu,Pasar Minggu,Kota Administrasi Jakarta Selatan,Bedeng,Bangunan Rendah,Listrik,0,50000000
+562,28,2,Kamis,Bencana Kebakaran,Masyarakat,14:15,Srengseng Sawah,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Kompor,7,160000000
+563,28,2,Kamis,Bencana Kebakaran,Masyarakat,16:50,Pasar Baru,Sawah Besar,Kota Administrasi Jakarta Pusat,Ruang Kompresor Listrik,Bangunan Menengah,Listrik,0,3000000
+565,1,3,Jumat,Bencana Kebakaran,Petugas Instansi Lain,3:05,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Mobil Honda Accord B 1548 HD,,Listrik,0,180000000
+566,1,3,Jumat,Bencana Kebakaran,Masyarakat,23:30,PAL Meriam,Matraman,Kota Administrasi Jakarta Timur,Pasar,Bangunan Rendah,Listrik,0,10000000
+567,2,3,Sabtu,Bencana Kebakaran,Masyarakat,0:30,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,16,160000000
+568,2,3,Sabtu,Bencana Kebakaran,Masyarakat,16:00,Halim Perdana Kusuma,Makasar,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,20,750000000
+569,3,3,Minggu,Bencana Kebakaran,Masyarakat,18:40,Sungai Bambu,Tanjung Priok,Kota Administrasi Jakarta Utara,Mobil,,Listrik,0,20000000
+571,3,3,Minggu,Bencana Kebakaran,Petugas Instansi Lain,18:45,Tangki,Tamansari,Kota Administrasi Jakarta Barat,Ruko 5 Lantai,Bangunan Menengah,Listrik,0,50000000
+572,4,3,Senin,Bencana Kebakaran,Masyarakat,9:30,Kebayoran Lama Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,AC oyt door Gedung Pesona,,Listrik,0,5000000
+573,4,3,Senin,Bencana Kebakaran,Masyarakat,14:30,Tanah Tinggi,Johar Baru,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Lain,50,1300000000
+574,4,3,Senin,Bencana Kebakaran,Masyarakat,14:55,Menteng,Menteng,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Lain,4,5000000
+577,6,3,Rabu,Bencana Kebakaran,Masyarakat,11:25,Pondok Labu,Cilandak,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Kompor,6,84000000
+578,6,3,Rabu,Bencana Kebakaran,Masyarakat,12:13,Cempaka Putih Barat,Cempaka Putih,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,6,30000000
+580,7,3,Kamis,Bencana Kebakaran,Masyarakat,5:30,Pulo Gebang,Cakung,Kota Administrasi Jakarta Timur,Tungku (Dapur Pabrik Tahu),Bangunan Rendah,Kompor,0,5000000
+581,7,3,Kamis,Bencana Kebakaran,Masyarakat,12:30,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,78,800000000
+582,7,3,Kamis,Bencana Kebakaran,Petugas Instansi Lain,13:30,Cakung Barat,Cakung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Kompor,4,60000000
+585,9,3,Sabtu,Bencana Kebakaran,Masyarakat,3:45,Setu,Cipayung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,4,350000000
+586,9,3,Sabtu,Bencana Kebakaran,Petugas Pemadam,8:18,Cideng,Gambir,Kota Administrasi Jakarta Pusat,Kendaraan,,Listrik,0,1000000
+587,10,3,Minggu,Bencana Kebakaran,Masyarakat,11:05,Bidara Cina,Jatinegara,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,4,50000000
+588,10,3,Minggu,Bencana Kebakaran,Petugas Instansi Lain,7:40,Pejaten Timur,Pasar Minggu,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,9,50000000
+589,10,3,Minggu,Bencana Kebakaran,Masyarakat,19:20,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,6,50000000
+590,11,3,Senin,Bencana Kebakaran,Petugas Instansi Lain,23:15,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Mobil Angkot F 1902 M,,Lain,0,80000000
+591,12,3,Selasa,Bencana Kebakaran,Masyarakat,3:50,Ragunan,Pasar Minggu,Kota Administrasi Jakarta Selatan,Kios / Toko,Bangunan Rendah,Kompor,14,300000000
+592,12,3,Selasa,Bencana Kebakaran,Masyarakat,17:40,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,5,100000000
+593,12,3,Selasa,Bencana Kebakaran,Masyarakat,12:40,Paseban,Senen,Kota Administrasi Jakarta Pusat,Rumah Tinggal Sekolahan dan Ruang Prasarana Logistik RS. Carolous,Bangunan Menengah,Listrik,30,4176000000
+595,13,3,Rabu,Bencana Kebakaran,Masyarakat,9:06,Jagakarsa,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,5,5000000
+596,13,3,Rabu,Bencana Kebakaran,Masyarakat,12:10,Grogol Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,3,40000000
+597,13,3,Rabu,Bencana Kebakaran,Masyarakat,13:25,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,20,3000000000
+598,14,3,Kamis,Bencana Kebakaran,Masyarakat,6:45,Senayan,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Gedung Pajak,Bangunan Tinggi,Listrik,0,500000000
+601,14,3,Kamis,Bencana Kebakaran,Masyarakat,20:43,Meruya Utara,Kembangan,Kota Administrasi Jakarta Barat,Kabel udara PLN,Bangunan Rendah,Listrik,0,1000000
+603,15,3,Jumat,Bencana Kebakaran,Petugas Instansi Lain,12:15,Pondok Pinang,Kebayoran Lama,Kota Administrasi Jakarta Selatan,HandPhone Meledak,Bangunan Rendah,Lain,6,3000000
+604,15,3,Jumat,Bencana Kebakaran,Masyarakat,20:35,Tangerang,Tangerang,Kota Tangerang,Stop Kontak,Bangunan Rendah,Listrik,6,30000000
+605,15,3,Jumat,Bencana Kebakaran,Masyarakat,9:00,Tegal Alur,Kalideres,Kota Administrasi Jakarta Barat,Meteran Listrik PLN,Bangunan Rendah,Listrik,0,5000000
+606,15,3,Jumat,Bencana Kebakaran,Petugas Instansi Lain,20:20,Glodok,Tamansari,Kota Administrasi Jakarta Barat,Panel Listrik PLN,Bangunan Rendah,Listrik,0,5000000
+607,16,3,Sabtu,Bencana Kebakaran,Masyarakat,8:05,Ancol,Pademangan,Kota Administrasi Jakarta Utara,Kapal PT. ALAINDO,,Lain,0,1500000000
+608,16,3,Sabtu,Bencana Kebakaran,Masyarakat,14:50,Marunda,Cilincing,Kota Administrasi Jakarta Utara,Tumpukan Palet,,Lain,0,15000000
+609,16,3,Sabtu,Bencana Kebakaran,Masyarakat,14:00,Bintaro,Pesanggrahan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,6,5000000
+613,17,3,Minggu,Bencana Kebakaran,Petugas Instansi Lain,9:01,Duri Kepa,Kebun Jeruk,Kota Administrasi Jakarta Barat,Mobil Kopaja,,Listrik,0,10000000
+614,17,3,Minggu,Bencana Kebakaran,Petugas Instansi Lain,9:19,Kota Bambu Selatan,Palmerah,Kota Administrasi Jakarta Barat,Kabel PLN,,Lain,0,2000000
+615,17,3,Minggu,Bencana Kebakaran,Masyarakat,20:30,Depok,Depok,Kota Depok,Pangkalan Kayu,Bangunan Rendah,Listrik,6,400000000
+616,18,3,Senin,Bencana Kebakaran,Masyarakat,1:30,Pangadegan,Pancoran,Kota Administrasi Jakarta Selatan,Gardu box listrik,,Listrik,0,50000000
+617,18,3,Senin,Bencana Kebakaran,Masyarakat,7:20,Cakung Barat,Cakung,Kota Administrasi Jakarta Timur,Rumah Tinggal,,Listrik,3,1000000
+619,18,3,Senin,Bencana Kebakaran,Masyarakat,19:35,Meruya Selatan,Kembangan,Kota Administrasi Jakarta Barat,Mobil Angkot C13 (B 2615 EC),Bangunan Rendah,Listrik,0,150000000
+620,19,3,Selasa,Bencana Kebakaran,Masyarakat,20:30,Kalibaru,Cilincing,Kota Administrasi Jakarta Utara,Mobil Carry,,Listrik,0,10000000
+623,20,3,Rabu,Bencana Kebakaran,Masyarakat,12:05,Srengseng Sawah,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Tinggal,,Listrik,5,4000000
+625,21,3,Kamis,Bencana Kebakaran,Masyarakat,17:00,Pondok Pinang,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Swalayan Seven7,,Listrik,0,175000000
+626,21,3,Kamis,Bencana Kebakaran,Masyarakat,21:05,Cipinang,Pulogadung,Kota Administrasi Jakarta Timur,Rumah Tinggal,,Listrik,6,300000000
+629,21,3,Kamis,Bencana Kebakaran,Masyarakat,12:52,Wijaya Kusuma,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,,Listrik,4,10000000
+631,22,3,Jumat,Bencana Kebakaran,Masyarakat,10:45,Pesanggrahan,Pesanggrahan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,,Listrik,24,500000000
+632,22,3,Jumat,Bencana Kebakaran,Masyarakat,12:30,Jelambar,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,,Listrik,0,2000000
+633,23,3,Sabtu,Bencana Kebakaran,Masyarakat,3:00,Jembatan Besi,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,,Listrik,2,50000000
+638,25,3,Senin,Bencana Kebakaran,Petugas Instansi Lain,13:15,Pegadungan,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,,Listrik,0,130000000
+640,26,3,Selasa,Bencana Kebakaran,Petugas Pemadam,9:30,Keagungan,Tamansari,Kota Administrasi Jakarta Barat,Gudang Kelurahan,Bangunan Menengah,Listrik,0,15000000
+641,26,3,Selasa,Bencana Kebakaran,Masyarakat,9:40,Grogol Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Mobil Kijang B 2577 GG,,Lain,0,50000000
+642,26,3,Selasa,Bencana Kebakaran,Masyarakat,14:35,Pondok Bambu,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Kontrakan,Bangunan Rendah,Listrik,0,150000000
+643,26,3,Selasa,Bencana Kebakaran,Masyarakat,13:20,Cempaka Putih Barat,Cempaka Putih,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,50,450000000
+648,27,3,Rabu,Bencana Kebakaran,Masyarakat,15:20,Duri Selatan,Tambora,Kota Administrasi Jakarta Barat,Bengkel Las,Bangunan Rendah,Lain,0,5000000
+649,28,3,Kamis,Bencana Kebakaran,Petugas Instansi Lain,5:00,Setiabudi,Setiabudi,Kota Administrasi Jakarta Selatan,Mobil Avanza,Bangunan Rendah,Lain,1,150000000
+650,28,3,Kamis,Bencana Kebakaran,Masyarakat,14:55,Gandaria Selatan,Cilandak,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,19,283000000
+651,28,3,Kamis,Bencana Kebakaran,Masyarakat,13:00,Petojo Utara,Gambir,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,25,200000000
+652,29,3,Jumat,Bencana Kebakaran,Masyarakat,14:30,Menteng,Menteng,Kota Administrasi Jakarta Pusat,Gedung,Bangunan Rendah,Lain,0,5000000
+653,30,3,Sabtu,Bencana Kebakaran,Petugas Pemadam,20:20,Jembatan Besi,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,0,1000000000
+654,30,3,Sabtu,Bencana Kebakaran,Masyarakat,23:25,Semanan,Kalideres,Kota Administrasi Jakarta Barat,Gudang Ikan Asin,Bangunan Rendah,Lain,0,25000000
+655,30,3,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,16:25,Meruya Utara,Kembangan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,7,600000000
+656,31,3,Minggu,Bencana Kebakaran,Masyarakat,1:45,Rawa Badak Utara,Koja,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,3,70000000
+658,1,4,Senin,Bencana Kebakaran,Masyarakat,13:00,Petojo Selatan,Gambir,Kota Administrasi Jakarta Pusat,Blower AC,,Listrik,0,15000000
+659,1,4,Senin,Bencana Kebakaran,Masyarakat,16:00,Menteng,Menteng,Kota Administrasi Jakarta Pusat,Gedung Frezer Resident,Bangunan Rendah,Listrik,0,5000000
+660,1,4,Senin,Bencana Kebakaran,Masyarakat,17:50,Joglo,Kembangan,Kota Administrasi Jakarta Barat,Bangunan Laundry,Bangunan Rendah,Lain,0,3000000
+661,1,4,Senin,Bencana Kebakaran,Masyarakat,19:25,Duren Sawit,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,7,50000000
+662,2,4,Selasa,Bencana Kebakaran,Masyarakat,7:00,Papanggo,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,0,400000000
+663,2,4,Selasa,Bencana Kebakaran,Petugas Instansi Lain,7:00,Kembangan Selatan,Kembangan,Kota Administrasi Jakarta Barat,Basemant LGM Gedung Royal 2,Bangunan Rendah,Listrik,0,300000000
+664,2,4,Selasa,Bencana Kebakaran,Masyarakat,19:43,Kramat Jati,Kramat Jati,Kota Administrasi Jakarta Timur,Pemanas Tenaga Surya,Bangunan Rendah,Listrik,5,5000000
+665,3,4,Rabu,Bencana Kebakaran,Petugas Instansi Lain,0:30,Grogol,Grogol Petamburan,Kota Administrasi Jakarta Barat,Mobil Hyundai Avega,,Listrik,0,40000000
+666,3,4,Rabu,Bencana Kebakaran,Masyarakat,18:15,Pasar Minggu,Pasar Minggu,Kota Administrasi Jakarta Selatan,Ruko Furniture,Bangunan Rendah,Listrik,0,3000000000
+667,3,4,Rabu,Bencana Kebakaran,Petugas Instansi Lain,22:17,Rawa Buaya,Cengkareng,Kota Administrasi Jakarta Barat,Ruko 4 Lantai,Bangunan Rendah,Listrik,2,10000000
+668,4,4,Kamis,Bencana Kebakaran,Masyarakat,7:18,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Kios / Toko,Bangunan Rendah,Listrik,1,30000000
+672,5,4,Jumat,Bencana Kebakaran,Petugas Pemadam,20:30,Rawa Badak Utara,Koja,Kota Administrasi Jakarta Utara,Pendingin Ruangan (AC),Bangunan Rendah,Listrik,0,2000000
+673,5,4,Jumat,Bencana Kebakaran,Masyarakat,23:35,Rawa Badak Utara,Koja,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Rokok,0,2000000
+674,5,4,Jumat,Bencana Kebakaran,Masyarakat,11:55,Kalideres,Kalideres,Kota Administrasi Jakarta Barat,Mobil Taxi,,Listrik,0,150000000
+675,6,4,Sabtu,Bencana Kebakaran,Masyarakat,12:40,Kebayoran Lama Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Mobil,,Listrik,0,90000000
+678,7,4,Minggu,Bencana Kebakaran,Masyarakat,12:15,Kelapa Gading Barat,Kelapa Gading,Kota Administrasi Jakarta Utara,Kios Bansin dan Tambal Ban,Bangunan Rendah,Rokok,3,5000000
+679,7,4,Minggu,Bencana Kebakaran,Masyarakat,13:36,Tebet Barat,Tebet,Kota Administrasi Jakarta Selatan,Ruko,Bangunan Rendah,Listrik,0,100000000
+680,7,4,Minggu,Bencana Kebakaran,Masyarakat,23:45,Pondok Pinang,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,5,50000000
+681,8,4,Senin,Bencana Kebakaran,Masyarakat,16:40,Krendang,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,45,1000000000
+683,8,4,Senin,Bencana Kebakaran,Masyarakat,23:10,Meruya Utara,Kembangan,Kota Administrasi Jakarta Barat,Gardu listrik,Bangunan Rendah,Listrik,0,18000000
+685,9,4,Selasa,Bencana Kebakaran,Petugas Instansi Lain,12:01,Sungai Bambu,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,10,750000000
+686,10,4,Rabu,Bencana Kebakaran,Petugas Instansi Lain,1:10,Bekasi,Bekasi,Kota Bekasi,Gudang,Bangunan Rendah,Listrik,,10000000
+687,10,4,Rabu,Bencana Kebakaran,Masyarakat,10:50,Angke,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,45,300000000
+689,10,4,Rabu,Bencana Kebakaran,Petugas Instansi Lain,15:35,Pela Mampang,Mampang Prapatan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,8,200000000
+690,11,4,Kamis,Bencana Kebakaran,Masyarakat,11:15,Tangerang,Tangerang,Kota Tangerang,Rumah Tinggal,Bangunan Rendah,Kompor,2,10000000
+692,12,4,Jumat,Bencana Kebakaran,Masyarakat,4:40,Palmerah,Palmerah,Kota Administrasi Jakarta Barat,Toko Spare Part,Bangunan Rendah,Lain,0,200000000
+693,12,4,Jumat,Bencana Kebakaran,Petugas Instansi Lain,8:25,Jembatan Lima,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,0,10000000
+694,12,4,Jumat,Bencana Kebakaran,Masyarakat,10:35,Jatinegara,Cakung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,2,750000000
+695,12,4,Jumat,Bencana Kebakaran,Masyarakat,18:04,Depok,Depok,Kota Depok,Gudang Furniture,Bangunan Rendah,Listrik,3,50000000
+697,14,4,Minggu,Bencana Kebakaran,Masyarakat,16:36,Rawamangun,Pulogadung,Kota Administrasi Jakarta Timur,Mobil,,Listrik,0,15000000
+699,15,4,Senin,Bencana Kebakaran,Petugas Instansi Lain,10:20,Pademangan Barat,Pademangan,Kota Administrasi Jakarta Utara,Rumah Tinggal,,Listrik,2,1000000
+702,16,4,Selasa,Bencana Kebakaran,Masyarakat,1:30,Semanan,Kalideres,Kota Administrasi Jakarta Barat,Pabrik Tahu,,Rokok,0,200000000
+703,16,4,Selasa,Bencana Kebakaran,Petugas Pemadam,19:22,Kamal,Kalideres,Kota Administrasi Jakarta Barat,Kabal Udara PLN,,Listrik,0,1000000
+704,16,4,Selasa,Bencana Kebakaran,Masyarakat,21:50,Kebon Melati,Tanah Abang,Kota Administrasi Jakarta Pusat,Panel Listrik PLN,,Listrik,0,1000000
+705,17,4,Rabu,Bencana Kebakaran,Masyarakat,7:10,Pinangsia,Tamansari,Kota Administrasi Jakarta Barat,rumah tinggal,,Lain,0,10000000
+706,17,4,Rabu,Bencana Kebakaran,Masyarakat,18:44,Semanan,Kalideres,Kota Administrasi Jakarta Barat,Travo Udara PLN,,Listrik,0,160000000
+708,18,4,Kamis,Bencana Kebakaran,Petugas Instansi Lain,7:55,Marunda,Cilincing,Kota Administrasi Jakarta Utara,tangki penyulingan minyak kelapa sawit,,Lain,0,100000000
+710,18,4,Kamis,Bencana Kebakaran,Petugas Pemadam,14:30,Semanan,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,,Rokok,8,10000000
+711,18,4,Kamis,Bencana Kebakaran,Masyarakat,21:45,Tegal Alur,Kalideres,Kota Administrasi Jakarta Barat,ruko,,Lain,0,15500000
+712,18,4,Kamis,Bencana Kebakaran,Masyarakat,23:35,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,,Listrik,4,400000000
+713,19,4,Jumat,Pertolongan Gawat Darurat (Ambulan Paramedik),Petugas Instansi Lain,17:02,Kebagusan,Pasar Minggu,Kota Administrasi Jakarta Selatan,Evakuasi Rumah Tinggal,,Lain,8,150000000
+714,20,4,Sabtu,Bencana Kebakaran,Masyarakat,2:30,Sunter Jaya,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,,Listrik,4,150000000
+715,20,4,Sabtu,Bencana Kebakaran,Masyarakat,14:00,Tangerang,Tangerang,Kota Tangerang,Gudang Alat- alat Pesta,,Lain,,500000000
+716,21,4,Minggu,Bencana Kebakaran,Masyarakat,5:30,Kalibaru,Cilincing,Kota Administrasi Jakarta Utara,Gudang Kayu,,Listrik,0,20000000
+717,21,4,Minggu,Bencana Kebakaran,Masyarakat,5:23,Tegal Alur,Kalideres,Kota Administrasi Jakarta Barat,Gudang Kimia,,Lain,0,15000000
+718,21,4,Minggu,Bencana Kebakaran,Petugas Pemadam,19:35,Ancol,Pademangan,Kota Administrasi Jakarta Utara,Ruko,,Listrik,0,300000000
+719,21,4,Minggu,Bencana Kebakaran,Masyarakat,23:00,Kampung Mester/Melayu,Jatinegara,Kota Administrasi Jakarta Timur,Rumah Tinggal,,Listrik,11,750000000
+723,23,4,Selasa,Bencana Kebakaran,Petugas Instansi Lain,2:35,Menteng,Menteng,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,90,1000000000
+724,23,4,Selasa,Bencana Kebakaran,Masyarakat,14:15,Tebet Timur,Tebet,Kota Administrasi Jakarta Selatan,Swalayan Seven7,Bangunan Rendah,Listrik,0,90000000
+725,23,4,Selasa,Bencana Kebakaran,Petugas Instansi Lain,13:43,Palmerah,Palmerah,Kota Administrasi Jakarta Barat,Polres Jakarta Barat,Bangunan Rendah,Listrik,0,2000000
+726,23,4,Selasa,Bencana Kebakaran,Masyarakat,18:16,Jelambar baru,Grogol Petamburan,Kota Administrasi Jakarta Barat,Kabel udara PLN,Bangunan Rendah,Listrik,0,1000000
+727,24,4,Rabu,Bencana Kebakaran,Masyarakat,4:15,Kampung Rawa,Johar Baru,Kota Administrasi Jakarta Pusat,Kabel udara PLN,Bangunan Rendah,Listrik,0,4000000
+730,25,4,Kamis,Bencana Kebakaran,Masyarakat,18:40,Kayu Putih,Pulogadung,Kota Administrasi Jakarta Timur,Panel Listrik,,Listrik,0,20000000
+736,25,4,Kamis,Pertolongan Gawat Darurat (Ambulan Transportasi).,Masyarakat,14:30,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Pohon Tumbang,,Lain,0,20000000
+738,25,4,Kamis,Pertolongan Gawat Darurat (Ambulan Transportasi).,Masyarakat,18:00,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Pohon Tumbang,,Lain,0,2000000
+740,26,4,Jumat,Bencana Kebakaran,Masyarakat,8:00,tebet barat,Tebet,Kota Administrasi Jakarta Selatan,kabel pln,,Listrik,0,1000000
+741,26,4,Jumat,Bencana Kebakaran,Masyarakat,14:15,Cipete utara,Kebayoran Baru,Kota Administrasi Jakarta Selatan,gudang rumah tinggal,,Listrik,0,500000000
+742,27,4,Sabtu,Bencana Kebakaran,Masyarakat,4:20,tegal alur,Kalideres,Kota Administrasi Jakarta Barat,Pabrik Helm,Bangunan Rendah,Listrik,0,1000000000
+743,27,4,Sabtu,Bencana Kebakaran,Masyarakat,12:25,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Gudang,Bangunan Rendah,Listrik,0,50000000
+744,27,4,Sabtu,Bencana Kebakaran,Masyarakat,9:30,Cempaka Putih Timur,Cempaka Putih,Kota Administrasi Jakarta Pusat,Trafo PLN,,Listrik,0,10000000
+745,27,4,Sabtu,Bencana Kebakaran,Masyarakat,11:03,Kramat Pela,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Gedung Kosong,Bangunan Menengah,Listrik,0,20000000
+749,28,4,Minggu,Bencana Kebakaran,Masyarakat,13:20,Petojo Selatan,Gambir,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,0,5000000
+751,1,5,Rabu,Bencana Kebakaran,Masyarakat,3:05,Pancoran,Pancoran,Kota Administrasi Jakarta Selatan,Sepeda Motor,,Listrik,0,9000000
+752,1,5,Rabu,Bencana Kebakaran,Masyarakat,12:05,Angke,Tambora,Kota Administrasi Jakarta Barat,Rumah Kontrakan,Bangunan Rendah,Listrik,0,3000000
+756,3,5,Jumat,Bencana Kebakaran,Petugas Pemadam,13:55,Lebak Bulus,Cilandak,Kota Administrasi Jakarta Selatan,Lapak Pemulung,Bangunan Rendah,Listrik,8,40000000
+757,3,5,Jumat,Bencana Kebakaran,Masyarakat,16:00,Duren Sawit,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,0,20000000
+758,4,5,Sabtu,Bencana Kebakaran,Masyarakat,16:25,Kebon Jeruk,Kebun Jeruk,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,7,80000000
+759,4,5,Sabtu,Bencana Kebakaran,Masyarakat,18:20,Palmerah,Palmerah,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,20,100000000
+761,5,5,Minggu,Bencana Kebakaran,Masyarakat,11:42,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Mess Karyawan,Bangunan Rendah,Listrik,6,50000000
+763,5,5,Minggu,Bencana Kebakaran,Petugas Instansi Lain,23:40,Roa Malaka,Tambora,Kota Administrasi Jakarta Barat,Bangunan Umum,Bangunan Rendah,Listrik,0,1000000
+764,6,5,Senin,Bencana Kebakaran,Masyarakat,2:05,Pejaten Barat,Pasar Minggu,Kota Administrasi Jakarta Selatan,Kabel tiang listrik,,Listrik,0,1000000
+765,7,5,Selasa,Bencana Kebakaran,Petugas Pemadam,13:01,Ceger,Cipayung,Kota Administrasi Jakarta Timur,Kandang Babi,Bangunan Rendah,Rokok,0,1000000
+766,7,5,Selasa,Bencana Kebakaran,Masyarakat,11:03,Menteng Dalam,Tebet,Kota Administrasi Jakarta Selatan,Gardu listrik,,Lain,0,50000000
+768,7,5,Selasa,Bencana Kebakaran,Masyarakat,20:05,Manggarai,Tebet,Kota Administrasi Jakarta Selatan,Kabel tiang listrik,,Lain,0,1000000
+769,7,5,Selasa,Bencana Kebakaran,Masyarakat,23:35,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Warung mie ayam,Bangunan Rendah,Kompor,0,1000000
+770,7,5,Selasa,Bencana Kebakaran,Masyarakat,23:40,Tangerang,Tangerang,Kota Tangerang,RUKO,Bangunan Rendah,Listrik,,9500000000
+771,8,5,Rabu,Bencana Kebakaran,Masyarakat,14:15,Jatinegara,Cakung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,6,80000000
+772,8,5,Rabu,Bencana Kebakaran,Masyarakat,16:20,Ulujami,Pesanggrahan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,4,50000000
+773,8,5,Rabu,Bencana Kebakaran,Petugas Instansi Lain,10:00,Kramat,Senen,Kota Administrasi Jakarta Pusat,Sepeda Motor,Bangunan Rendah,Listrik,0,6000000
+774,8,5,Rabu,Bencana Kebakaran,Masyarakat,22:55,Kebayoran Lama Utara,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Box Meter Listrik,Bangunan Rendah,Listrik,0,5000000
+775,8,5,Rabu,Bencana Kebakaran,Masyarakat,20:45,Kembangan utara,Kembangan,Kota Administrasi Jakarta Barat,Mobil,Bangunan Rendah,Listrik,0,150000000
+776,9,5,Kamis,Bencana Kebakaran,Petugas Instansi Lain,11:45,Gandaria Utara,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Gedung,Bangunan Rendah,Listrik,0,20000000
+777,9,5,Kamis,Bencana Kebakaran,Masyarakat,21:00,Srengseng Sawah,Jagakarsa,Kota Administrasi Jakarta Selatan,Gedung SMK Teladan,Bangunan Menengah,Listrik,0,30000000
+778,9,5,Kamis,Bencana Kebakaran,Petugas Instansi Lain,7:45,Roa Malaka,Tambora,Kota Administrasi Jakarta Barat,GARDU Listrik,,Listrik,0,300000000
+780,11,5,Sabtu,Bencana Kebakaran,Masyarakat,7:54,tebet barat,Tebet,Kota Administrasi Jakarta Selatan,Mobil,Bangunan Rendah,Listrik,0,85000000
+781,12,5,Minggu,Bencana Kebakaran,Masyarakat,3:45,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Bangunan Usaha,Bangunan Menengah,Listrik,0,25000000
+782,13,5,Senin,Bencana Kebakaran,Masyarakat,14:15,Petogogan,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Mesin Pemanas air,,Listrik,0,60000000
+783,13,5,Senin,Bencana Kebakaran,Masyarakat,19:55,pesanggrahan,Pesanggrahan,Kota Administrasi Jakarta Selatan,Box Listrik,,Listrik,0,1000000
+784,14,5,Selasa,Bencana Kebakaran,Masyarakat,10:45,Tebet Barat,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Kompor,4,1000000
+785,14,5,Selasa,Bencana Kebakaran,Masyarakat,14:00,Kembangan Utara,Kembangan,Kota Administrasi Jakarta Barat,Rumah Penduduk,Bangunan Rendah,Kompor,43,150000000
+787,16,5,Kamis,Bencana Kebakaran,Petugas Instansi Lain,0:20,Cikini,Menteng,Kota Administrasi Jakarta Pusat,Kantor PT. Rotariana Engineering,Bangunan Menengah,Listrik,0,150000000
+788,16,5,Kamis,Bencana Kebakaran,Masyarakat,21:50,Pejaten Timur,Pasar Minggu,Kota Administrasi Jakarta Selatan,Kabel udara PLN,,Listrik,0,1500000
+789,17,5,Jumat,Bencana Kebakaran,Masyarakat,18:20,Bekasi,Bekasi,Kota Bekasi,Rumah Tinggal,Bangunan Rendah,Listrik,4,25000000
+790,18,5,Sabtu,Bencana Kebakaran,Masyarakat,12:30,Tebet Timur,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,4,15000000
+791,18,5,Sabtu,Bencana Kebakaran,Masyarakat,23:42,Cipulir,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,5,10000000
+793,19,5,Minggu,Bencana Kebakaran,Masyarakat,13:59,Kota Bambu Selatan,Palmerah,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,12,75000000
+795,20,5,Senin,Bencana Kebakaran,Masyarakat,3:48,Lebak Bulus,Cilandak,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,3,75000000
+796,20,5,Senin,Bencana Kebakaran,Masyarakat,11:05,Bintaro,Pesanggrahan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,5,10000000
+797,20,5,Senin,Bencana Kebakaran,Masyarakat,22:10,Ciracas,Ciracas,Kota Administrasi Jakarta Timur,Kabel Udara PLN,Bangunan Rendah,Listrik,0,1000000
+798,21,5,Selasa,Bencana Kebakaran,Masyarakat,20:35,Tanah Sereal,Tambora,Kota Administrasi Jakarta Barat,Gardu Listrik,Bangunan Rendah,Listrik,0,300000000
+799,23,5,Kamis,Bencana Kebakaran,Masyarakat,7:25,Tegal Alur,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,3,70000000
+800,23,5,Kamis,Bencana Kebakaran,Masyarakat,11:00,Sungai Bambu,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Kompor,6,10000000
+801,24,5,Jumat,Bencana Kebakaran,Masyarakat,0:10,Bambu Apus,Cipayung,Kota Administrasi Jakarta Timur,Kios,Bangunan Rendah,Listrik,0,400000000
+802,24,5,Jumat,Bencana Kebakaran,Masyarakat,0:30,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Bedeng tempat tinggal,Bangunan Rendah,Listrik,18,100000000
+803,24,5,Jumat,Bencana Kebakaran,Petugas Instansi Lain,8:50,Depok,Depok,Kota Depok,Mobil,,Listrik,,100000000
+804,25,5,Sabtu,Bencana Kebakaran,Masyarakat,3:15,Ciganjur,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,1,200000000
+805,25,5,Sabtu,Bencana Kebakaran,Masyarakat,7:45,Kampung Tengah,Kramat Jati,Kota Administrasi Jakarta Timur,Kios,Bangunan Rendah,Listrik,0,10000000
+807,25,5,Sabtu,Bencana Kebakaran,Masyarakat,21:00,Pasar minggu,Pasar Minggu,Kota Administrasi Jakarta Selatan,Kabel udara PLN,,Listrik,0,2500000
+808,25,5,Sabtu,Bencana Kebakaran,Petugas Pemadam,23:25,Jelambar Baru,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Lain,1,90000000
+809,27,5,Senin,Bencana Kebakaran,Masyarakat,7:30,Kembangan Selatan,Kembangan,Kota Administrasi Jakarta Barat,Mobil Angkot,,Listrik,0,40000000
+810,27,5,Senin,Bencana Kebakaran,Masyarakat,16:50,Pademangan Timur,Pademangan,Kota Administrasi Jakarta Utara,Gardu Listrik,Bangunan Rendah,Listrik,0,1000000
+812,28,5,Selasa,Bencana Kebakaran,Masyarakat,1:50,Kalibata,Pancoran,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,3,5000000
+813,28,5,Selasa,Bencana Kebakaran,Masyarakat,1:30,Maphar,Tamansari,Kota Administrasi Jakarta Barat,Gedung,Bangunan Menengah,Lain,0,400000000
+814,28,5,Selasa,Bencana Kebakaran,Masyarakat,11:30,Pegangsaan Dua,Kelapa Gading,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Kompor,5,200000000
+815,28,5,Selasa,Bencana Kebakaran,Masyarakat,17:15,Rawa Terate,Cakung,Kota Administrasi Jakarta Timur,Panel Listrik,,Listrik,0,50000000
+816,28,5,Selasa,Bencana Kebakaran,Masyarakat,14:42,Cempaka Putih Barat,Cempaka Putih,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,15,200000000
+817,28,5,Selasa,Bencana Kebakaran,Petugas Instansi Lain,23:25,Kembangan utara,Kembangan,Kota Administrasi Jakarta Barat,Mobil Xenia,,Listrik,0,70000000
+818,29,5,Rabu,Bencana Kebakaran,Masyarakat,5:30,Menteng Dalam,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,4,1200000000
+820,29,5,Rabu,Bencana Kebakaran,Masyarakat,19:15,Pondok Pinang,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Gardu Listrik,Bangunan Rendah,Listrik,0,10000000
+821,29,5,Rabu,Bencana Kebakaran,Masyarakat,20:25,Petukangan Selatan,Pesanggrahan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,5,80000000
+824,30,5,Kamis,Bencana Kebakaran,Masyarakat,6:40,Semper timur,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,29,700000000
+825,30,5,Kamis,Bencana Kebakaran,Masyarakat,20:45,Menteng Atas,Setiabudi,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,40,800000000
+828,31,5,Jumat,Bencana Kebakaran,Petugas Instansi Lain,10:40,Pondok Pinang,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Kabel PLN,,Listrik,0,75000000
+829,1,6,Sabtu,Bencana Kebakaran,Masyarakat,3:55,Rawamangun,Pulogadung,Kota Administrasi Jakarta Timur,Mobil Avanza,,Listrik,0,100000000
+830,1,6,Sabtu,Bencana Kebakaran,Masyarakat,7:44,Cipete Utara,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Kantor Pemasaran Kemang Village,,Listrik,0,5000000
+831,1,6,Sabtu,Bencana Kebakaran,Masyarakat,15:30,Bukit Duri,Tebet,Kota Administrasi Jakarta Selatan,Mobil Daihatsu Espass,,Listrik,0,40000000
+832,1,6,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,21:30,TANJUNG BARAT,Jagakarsa,Kota Administrasi Jakarta Selatan,MOBIL HONDA STREAM,,Listrik,0,5000000
+833,1,6,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,22:20,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Dapur Hotel Kristal Lt. 6,Bangunan Menengah,Listrik,0,10000000
+834,1,6,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,17:15,Sukabumi selatan,Kebun Jeruk,Kota Administrasi Jakarta Barat,Gudang Kios Plastik,Bangunan Menengah,Listrik,0,500000000
+835,2,6,Minggu,Bencana Kebakaran,Petugas Instansi Lain,1:30,Jelambar Baru,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Menengah,Listrik,4,400000000
+837,3,6,Senin,Bencana Kebakaran,Petugas Instansi Lain,2:00,Kedoya Selatan,Kebun Jeruk,Kota Administrasi Jakarta Barat,Kantor PT. Bola Baja,Bangunan Menengah,Listrik,0,400000000
+838,3,6,Senin,Bencana Kebakaran,Masyarakat,21:20,Pondok Pinang,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Mobil Honda Jazz,,Listrik,0,100000000
+839,3,6,Senin,Bencana Kebakaran,Petugas Instansi Lain,21:55,Pinang Ranti,Makasar,Kota Administrasi Jakarta Timur,Trans Jakarta,,Listrik,0,20000000
+840,3,6,Senin,Bencana Kebakaran,Masyarakat,9:45,Cempaka Putih Timur,Cempaka Putih,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,12,100000000
+841,4,6,Selasa,Bencana Kebakaran,Masyarakat,10:40,Tambora,Tambora,Kota Administrasi Jakarta Barat,Warung Makan,Bangunan Rendah,Kompor,0,5000000
+844,5,6,Rabu,Bencana Kebakaran,Masyarakat,13:15,Malaka Jaya,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,5,7500000
+845,5,6,Rabu,Bencana Kebakaran,Masyarakat,17:32,Duri Selatan,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Rokok,3,3000000
+846,6,6,Kamis,Bencana Kebakaran,Masyarakat,5:00,Penggilingan,Cakung,Kota Administrasi Jakarta Timur,Lapak Pemulung,Bangunan Rendah,Lain,8,150000000
+847,7,6,Jumat,Bencana Kebakaran,Masyarakat,8:36,Cempaka Putih Timur,Cempaka Putih,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,4,100000000
+849,7,6,Jumat,Bencana Kebakaran,Masyarakat,10:45,Selong,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Kabel udara PLN,,Listrik,0,1000000
+850,7,6,Jumat,Bencana Kebakaran,Petugas Instansi Lain,18:30,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Gudang,Bangunan Menengah,Listrik,0,2000000
+851,7,6,Jumat,Bencana Kebakaran,Masyarakat,18:50,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,3,3000000
+852,7,6,Jumat,Bencana Kebakaran,Masyarakat,22:15,Cengkareng Timur,Cengkareng,Kota Administrasi Jakarta Barat,Ruamah Tinggal (Kontrakan),Bangunan Rendah,Listrik,9,200000000
+853,8,6,Sabtu,Bencana Kebakaran,Masyarakat,4:05,Sunter Jaya,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,10,50000000
+855,8,6,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,23:07,Gondangdia,Menteng,Kota Administrasi Jakarta Pusat,Toko Roti The Harvest,Bangunan Menengah,Listrik,0,50000000
+857,10,6,Senin,Bencana Kebakaran,Masyarakat,5:25,Cipedak,Jagakarsa,Kota Administrasi Jakarta Selatan,Kabel PLN,,Listrik,0,3000000
+859,10,6,Senin,Bencana Kebakaran,Masyarakat,9:11,Kembangan utara,Kembangan,Kota Administrasi Jakarta Barat,Mobil Nisan B 1344 FA,,Listrik,0,80000000
+860,10,6,Senin,Bencana Kebakaran,Masyarakat,12:10,Utan Panjang,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,6,200000000
+861,10,6,Senin,Bencana Kebakaran,Masyarakat,22:30,Pangadegan,Pancoran,Kota Administrasi Jakarta Selatan,Kabel udara PLN,,Listrik,0,1000000
+862,11,6,Selasa,Bencana Kebakaran,Masyarakat,4:50,Cakung Timur,Cakung,Kota Administrasi Jakarta Timur,Lapak Pemukiman,Bangunan Rendah,Listrik,5,10000000
+864,12,6,Rabu,Bencana Kebakaran,Masyarakat,4:15,Kalisari,Pasar Rebo,Kota Administrasi Jakarta Timur,Kantin SLTPN 203,Bangunan Rendah,Listrik,0,40000000
+865,12,6,Rabu,Bencana Kebakaran,Masyarakat,18:25,Rawa Barat,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Gardu PLN,Bangunan Rendah,Listrik,0,150000000
+866,12,6,Rabu,Bencana Kebakaran,Masyarakat,19:20,Gandaria Selatan,Cilandak,Kota Administrasi Jakarta Selatan,Kabel udara PLN,,Listrik,0,1000000
+868,13,6,Kamis,Bencana Kebakaran,Petugas Pemadam,9:10,Pekojan,Tambora,Kota Administrasi Jakarta Barat,Tandon Air,Bangunan Rendah,Listrik,20,2100000
+869,14,6,Jumat,Bencana Kebakaran,Masyarakat,6:10,Cempaka Putih Timur,Cempaka Putih,Kota Administrasi Jakarta Pusat,Kabel udara PLN,Bangunan Rendah,Listrik,0,1000000
+871,15,6,Sabtu,Bencana Kebakaran,Masyarakat,19:05,Kalideres,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,4,7000000
+872,16,6,Minggu,Bencana Kebakaran,Masyarakat,0:45,Papanggo,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,20,100000000
+873,16,6,Minggu,Bencana Kebakaran,Petugas Pemadam,7:55,Sungai bambu,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,11,40000000
+874,16,6,Minggu,Bencana Kebakaran,Masyarakat,8:00,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Mobil Kijang B 2193 JHT,,Listrik,0,45000000
+876,16,6,Minggu,Bencana pada Ketinggian (operasi penyelamatan Beda Ketinggian),Masyarakat,10:45,Marunda,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,5,10000000
+877,16,6,Minggu,Bencana Kebakaran,Petugas Instansi Lain,14:20,Petojo Utara,Gambir,Kota Administrasi Jakarta Pusat,Bus Trans Jakarta,,Listrik,0,500000000
+878,17,6,Senin,Bencana Kebakaran,Masyarakat,6:40,Mampang Prapatan,Mampang Prapatan,Kota Administrasi Jakarta Selatan,Dapur Hotel Amaris Lt.2,Bangunan Tinggi,Lain,0,50000000
+881,17,6,Senin,Bencana Kebakaran,Masyarakat,22:15,Cibubur,Ciracas,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,4,200000000
+883,18,6,Selasa,Bencana Kebakaran,Petugas Instansi Lain,10:30,Kedaung Kali Angke,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Kompor,35,125000000
+884,18,6,Selasa,Bencana Kebakaran,Petugas Instansi Lain,14:20,Makasar,Makasar,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,4,15000000
+885,19,6,Rabu,Bencana Kebakaran,Masyarakat,16:45,Menteng Atas,Setiabudi,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,6,75000000
+887,19,6,Rabu,Bencana Kebakaran,Masyarakat,14:45,Petojo Selatan,Gambir,Kota Administrasi Jakarta Pusat,Sepeda Motor,,Listrik,0,8000000
+891,21,6,Jumat,Bencana Kebakaran,Petugas Pemadam,2:30,Cilincing,Cilincing,Kota Administrasi Jakarta Utara,Mobil Metromini,,Listrik,0,100000000
+896,22,6,Sabtu,Bencana Kebakaran,Masyarakat,13:30,Kebon Kosong,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,5,150000000
+897,22,6,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,14:45,Kramat,Senen,Kota Administrasi Jakarta Pusat,Mobil,,Listrik,0,40000000
+898,23,6,Minggu,Bencana Kebakaran,Masyarakat,0:15,Cipedak,Jagakarsa,Kota Administrasi Jakarta Selatan,gudang rumah tinggal,Bangunan Rendah,Listrik,4,20000000
+899,23,6,Minggu,Bencana Kebakaran,Masyarakat,4:35,Pulo Gebang,Cakung,Kota Administrasi Jakarta Timur,Mobil Nissan Grand Livina B 1151 TKU,,Lain,0,200000000
+901,24,6,Senin,Bencana Kebakaran,Petugas Instansi Lain,2:05,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Kios Kaki Lima,Bangunan Rendah,Listrik,0,50000000
+902,24,6,Senin,Bencana Kebakaran,Masyarakat,8:30,Karang Anyar,Sawah Besar,Kota Administrasi Jakarta Pusat,Rumah Tingggal,Bangunan Rendah,Listrik,0,1000000
+903,24,6,Senin,Bencana Kebakaran,Masyarakat,16:00,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Ruko,Bangunan Menengah,Listrik,0,50000000
+904,24,6,Senin,Bencana Kebakaran,Masyarakat,17:05,Tebet timur,Tebet,Kota Administrasi Jakarta Selatan,Rumah tinggal,Bangunan Rendah,Listrik,6,1000000
+905,24,6,Senin,Bencana Kebakaran,Masyarakat,23:30,Jagakarsa,Jagakarsa,Kota Administrasi Jakarta Selatan,Kabel udara PLN,,Listrik,0,2000000
+906,25,6,Selasa,Bencana Kebakaran,Masyarakat,1:40,kebayoran lama selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Bangunan Umum,,Lain,0,5000000
+907,25,6,Selasa,Bencana Kebakaran,Masyarakat,2:40,Tegal Alur,Kalideres,Kota Administrasi Jakarta Barat,Rumah tinggal,Bangunan Rendah,Listrik,6,50000000
+908,25,6,Selasa,Bencana Kebakaran,Masyarakat,7:00,Ciracas,Ciracas,Kota Administrasi Jakarta Timur,Rumah Kontrakan,Bangunan Rendah,Kompor,4,5000000
+909,25,6,Selasa,Bencana Kebakaran,Masyarakat,20:54,Ceger,Cipayung,Kota Administrasi Jakarta Timur,Kabel udara PLN,Bangunan Rendah,Listrik,0,1000000
+910,26,6,Rabu,Bencana Kebakaran,Masyarakat,8:15,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Ruko,Bangunan Rendah,Listrik,8,1000000000
+912,26,6,Rabu,Bencana Kebakaran,Petugas Pemadam,14:30,Tegal Alur,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,31,120000000
+913,26,6,Rabu,Bencana Kebakaran,Masyarakat,22:00,Tebet timur,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Menengah,Listrik,5,500000000
+914,26,6,Rabu,Bencana Kebakaran,Masyarakat,22:45,Gunung Sahari Utara,Sawah Besar,Kota Administrasi Jakarta Pusat,Hotel Sheraton Media,Bangunan Tinggi,Listrik,0,200000000
+918,27,6,Kamis,Bencana Kebakaran,Masyarakat,20:35,Pademangan Timur,Pademangan,Kota Administrasi Jakarta Utara,Ruko,Bangunan Rendah,Listrik,25,1000000000
+920,28,6,Jumat,Bencana Kebakaran,Masyarakat,15:05,Pademangan Timur,Pademangan,Kota Administrasi Jakarta Utara,Gudang,Bangunan Rendah,Lain,0,2000000
+922,28,6,Jumat,Bencana Kebakaran,Masyarakat,15:40,Palmerah,Palmerah,Kota Administrasi Jakarta Barat,Rumah Kontrakan,Bangunan Rendah,Listrik,8,350000000
+923,29,6,Sabtu,Bencana Kebakaran,Masyarakat,0:15,Menteng Atas,Setiabudi,Kota Administrasi Jakarta Selatan,Rumah Tinggal (Dapur),Bangunan Rendah,Listrik,4,20000000
+924,29,6,Sabtu,Bencana Kebakaran,Petugas Pemadam,14:25,Pekojan,Tambora,Kota Administrasi Jakarta Barat,Ruko,Bangunan Rendah,Listrik,2,500000000
+925,29,6,Sabtu,Bencana Kebakaran,Masyarakat,20:40,Kelapa Gading Barat,Kelapa Gading,Kota Administrasi Jakarta Utara,Mall Of Indonesia,Bangunan Tinggi,Listrik,0,750000000
+927,30,6,Minggu,Bencana Kebakaran,Masyarakat,9:40,Kamal Muara,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,12,200000000
+928,30,6,Minggu,Bencana Kebakaran,Masyarakat,12:00,KAlibaru,Cilincing,Kota Administrasi Jakarta Utara,Gudang Penyimpanan Kayu,Bangunan Rendah,Lain,0,200000000
+936,1,7,Senin,Bencana Kebakaran,Masyarakat,20:05,Kali Anyar,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,7,50000000
+937,2,7,Selasa,Bencana Kebakaran,Petugas Instansi Lain,2:25,Grogol Utara,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,5,1000000000
+938,2,7,Selasa,Bencana Kebakaran,Masyarakat,14:28,Krendang,Tambora,Kota Administrasi Jakarta Barat,Ruko 3 Lantai,Bangunan Rendah,Listrik,6,200000000
+940,3,7,Rabu,Bencana Kebakaran,Masyarakat,4:20,Pulo Gebang,Cakung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,5,200000000
+941,3,7,Rabu,Bencana Kebakaran,Petugas Instansi Lain,18:50,Pulogadung,Pulogadung,Kota Administrasi Jakarta Timur,Rumah Kontrakan,Bangunan Rendah,Listrik,15,900000000
+942,4,7,Kamis,Bencana Kebakaran,Petugas Instansi Lain,19:45,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Mobil Sedan,,Listrik,0,10000000
+943,5,7,Jumat,Bencana Kebakaran,Petugas Pemadam,0:05,Kelapa Gading Barat,Kelapa Gading,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Kompor,3,3000000000
+945,5,7,Jumat,Bencana Kebakaran,Petugas Instansi Lain,14:40,Rawa Badak Selatan,Koja,Kota Administrasi Jakarta Utara,Hotel Cempaka,Bangunan Rendah,Listrik,0,750000000
+946,5,7,Jumat,Bencana Kebakaran,Masyarakat,16:55,Menteng Dalam,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Kompor,2,3000000
+947,6,7,Sabtu,Bencana Kebakaran,Masyarakat,3:05,Tanjung Priok,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,15,850000000
+948,6,7,Sabtu,Bencana Kebakaran,Masyarakat,12:00,Sukabumi selatan,Kebun Jeruk,Kota Administrasi Jakarta Barat,Ruamah Tinggal,Bangunan Rendah,Kompor,0,2000000
+949,7,7,Minggu,Bencana Kebakaran,Masyarakat,5:30,Cikini,Menteng,Kota Administrasi Jakarta Pusat,AC di lantai 1,Bangunan Rendah,Listrik,0,180000000
+950,7,7,Minggu,Bencana Kebakaran,Masyarakat,11:35,Marunda,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,0,100000000
+951,7,7,Minggu,Bencana Kebakaran,Masyarakat,14:20,Kedoya Selatan,Kebun Jeruk,Kota Administrasi Jakarta Barat,Mobil Sedan,,Lain,0,20000000
+952,7,7,Minggu,Bencana Kebakaran,Masyarakat,7:55,Petukangan Selatan,Pesanggrahan,Kota Administrasi Jakarta Selatan,Mobil Taksi,,Lain,0,75000000
+953,8,7,Senin,Bencana Kebakaran,Masyarakat,11:40,Tegal Alur,Kalideres,Kota Administrasi Jakarta Barat,Gardu Listrik,Bangunan Rendah,Listrik,0,200000000
+954,8,7,Senin,Bencana Kebakaran,Masyarakat,19:10,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,1,30000000
+956,8,7,Senin,Bencana Kebakaran,Masyarakat,22:35,Kelapa Gading Barat,Kelapa Gading,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,0,20000000
+957,9,7,Selasa,Bencana Kebakaran,Masyarakat,17:45,Tegal Alur,Kalideres,Kota Administrasi Jakarta Barat,Tangki dan serbuk kayu,,Lain,0,15000000
+958,10,7,Rabu,Bencana Kebakaran,Petugas Instansi Lain,15:55,Tangerang,Tangerang,Kota Tangerang,Rumah Kontrakan,Bangunan Rendah,Listrik,12,150000000
+959,10,7,Rabu,Bencana Kebakaran,Petugas Pemadam,11:35,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Kompor,5,6000000
+960,10,7,Rabu,Bencana Kebakaran,Masyarakat,19:40,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Ruko,Bangunan Menengah,Listrik,7,300000000
+961,10,7,Rabu,Bencana Kebakaran,Masyarakat,20:25,Kebayoran Lama Utara,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,28,276000000
+962,11,7,Kamis,Bencana Kebakaran,Masyarakat,2:50,Malaka Sari,Duren Sawit,Kota Administrasi Jakarta Timur,Pos Ronda,Bangunan Rendah,Lain,0,1000000
+964,11,7,Kamis,Bencana Kebakaran,Masyarakat,11:05,Kebon Bawang,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,10,200000000
+965,11,7,Kamis,Bencana Kebakaran,Masyarakat,12:25,Pulo,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Ruko,Bangunan Menengah,Listrik,0,240000000
+966,11,7,Kamis,Bencana Kebakaran,Masyarakat,12:30,Cempaka Putih Timur,Cempaka Putih,Kota Administrasi Jakarta Pusat,Mobil Pick Up,,Lain,0,200000000
+967,11,7,Kamis,Bencana Kebakaran,Petugas Pemadam,14:40,Kebon Bawang,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,2,30000000
+968,11,7,Kamis,Bencana Kebakaran,Masyarakat,18:30,Kelapa Dua Wetan,Ciracas,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,4,2000000
+969,11,7,Kamis,Bencana Kebakaran,Petugas Pemadam,23:10,Sukabumi Utara,Kebun Jeruk,Kota Administrasi Jakarta Barat,Kabel Tiang Listrik,Bangunan Rendah,Listrik,0,2500000
+970,11,7,Kamis,Bencana Kebakaran,Petugas Pemadam,21:35,Kali Anyar,Tambora,Kota Administrasi Jakarta Barat,Kabel Tiang Listrik,Bangunan Rendah,Listrik,0,2500000
+971,11,7,Kamis,Bencana Kebakaran,Masyarakat,19:10,Tomang,Grogol Petamburan,Kota Administrasi Jakarta Barat,Lampu Penerangan SPBU,Bangunan Rendah,Listrik,0,4000000
+972,12,7,Jumat,Bencana Kebakaran,Petugas Instansi Lain,15:20,Tanah Sereal,Tambora,Kota Administrasi Jakarta Barat,Konveksi dan Sablon Berlantai 2,Bangunan Rendah,Listrik,8,400000000
+974,13,7,Sabtu,Bencana Kebakaran,Masyarakat,13:05,Kelapa Dua Wetan,Ciracas,Kota Administrasi Jakarta Timur,Kabel udara PLN,,Lain,0,1000000
+976,14,7,Minggu,Bencana Kebakaran,Petugas Pemadam,8:20,Rawa Terate,Cakung,Kota Administrasi Jakarta Timur,Cerobong Pipa GAS,,Lain,0,1000000
+977,14,7,Minggu,Bencana Kebakaran,Petugas Pemadam,12:00,Cempaka Putih Timur,Cempaka Putih,Kota Administrasi Jakarta Pusat,Kantor Advokat,Bangunan Rendah,Listrik,0,150000000
+978,14,7,Minggu,Bencana Kebakaran,Petugas Instansi Lain,13:50,Pisangan Baru,Matraman,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,0,30000000
+980,14,7,Minggu,Bencana Kebakaran,Petugas Pemadam,18:23,Johar Baru,Johar Baru,Kota Administrasi Jakarta Pusat,Gardu Listrik,,Listrik,0,1000000
+981,15,7,Senin,Bencana Kebakaran,Masyarakat,23:35,Kemanggisan,Palmerah,Kota Administrasi Jakarta Barat,Kios Bakso,Bangunan Rendah,Kompor,0,7500000
+982,16,7,Selasa,Bencana Kebakaran,Masyarakat,11:15,Bekasi,Bekasi,Kota Bekasi,Rumah Tinggal,Bangunan Rendah,Listrik,5,200000000
+983,16,7,Selasa,Bencana Kebakaran,Petugas Instansi Lain,13:45,Pasar minggu,Pasar Minggu,Kota Administrasi Jakarta Selatan,Kabel udara PLN,Bangunan Rendah,Listrik,0,1000000
+984,16,7,Selasa,Bencana Kebakaran,Masyarakat,20:10,Pekojan,Tambora,Kota Administrasi Jakarta Barat,Lapak Tumpukan Kardus,Bangunan Rendah,Lain,0,185000000
+985,17,7,Rabu,Bencana Kebakaran,Masyarakat,13:00,Grogol Utara,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Mobil,,Lain,0,142000000
+986,17,7,Rabu,Bencana Bangunan Runtuh (operasi penyelamatan Collapse Structure).,Petugas Pemadam,14:44,Kali Anyar,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Lain,0,125000000
+989,18,7,Kamis,Bencana Kebakaran,Masyarakat,4:20,Jembatan Besi,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,12,1500000
+990,18,7,Kamis,Bencana Kebakaran,Masyarakat,3:25,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Mobil,,Lain,0,110000000
+991,18,7,Kamis,Bencana Kebakaran,Masyarakat,5:35,Cakung Timur,Cakung,Kota Administrasi Jakarta Timur,Gudang,Bangunan Rendah,Listrik,0,15000000
+992,18,7,Kamis,Bencana Kebakaran,Masyarakat,10:55,Tugu Selatan,Koja,Kota Administrasi Jakarta Utara,Bengkel Motor,Bangunan Rendah,Listrik,0,25000000
+994,18,7,Kamis,Bencana Kebakaran,Petugas Instansi Lain,19:25,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Kabel PLN,,Listrik,0,3000000
+995,18,7,Kamis,Bencana Kebakaran,Masyarakat,19:30,Mangga Besar,Tamansari,Kota Administrasi Jakarta Barat,Rumah Kontrakan,Bangunan Rendah,Listrik,0,5000000
+996,19,7,Jumat,Bencana Kebakaran,Petugas Pemadam,14:45,Ciganjur,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,4,300000000
+997,19,7,Jumat,Bencana Kebakaran,Masyarakat,20:54,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Bengkel Motor,Bangunan Rendah,Listrik,0,400000000
+998,19,7,Jumat,Bencana Kebakaran,Masyarakat,23:50,Grogol,Grogol Petamburan,Kota Administrasi Jakarta Barat,Mobil Daihatsu Luxio,,Listrik,0,150000000
+999,20,7,Sabtu,Bencana Kebakaran,Masyarakat,20:30,Kembangan Selatan,Kembangan,Kota Administrasi Jakarta Barat,D'Cost Restaurant,Bangunan Rendah,Lain,0,10000000
+1001,22,7,Senin,Bencana Kebakaran,Masyarakat,2:15,Kebon Jeruk,Kebun Jeruk,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,3,5000000
+1002,22,7,Senin,Bencana Kebakaran,Masyarakat,2:28,Jagakarsa,Jagakarsa,Kota Administrasi Jakarta Selatan,Kios Pancing,Bangunan Rendah,Listrik,0,7500000
+1003,22,7,Senin,Bencana Kebakaran,Masyarakat,20:35,Kalideres,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal Sekaligus Warung Sembako,Bangunan Rendah,Lain,2,50000000
+1004,23,7,Selasa,Bencana Kebakaran,Petugas Pemadam,16:30,Bekasi,Bekasi,Kota Bekasi,Gedung KFC,Bangunan Menengah,Kompor,0,500000000
+1005,24,7,Rabu,Bencana Kebakaran,Petugas Pemadam,2:30,Bendungan Hilir,Tanah Abang,Kota Administrasi Jakarta Pusat,Gedung UOB,Bangunan Tinggi,Listrik,0,1000000000
+1006,24,7,Rabu,Bencana Kebakaran,Masyarakat,9:05,Pondok Pinang,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Panel Listrik PLN,,Listrik,0,10000000
+1007,25,7,Kamis,Bencana Kebakaran,Masyarakat,11:00,Rorotan,Cilincing,Kota Administrasi Jakarta Utara,Paled Kayu,,Listrik,0,10000000
+1008,26,7,Jumat,Bencana Kebakaran,Petugas Instansi Lain,0:42,Malaka Sari,Duren Sawit,Kota Administrasi Jakarta Timur,MCB,,Listrik,0,5000000
+1009,26,7,Jumat,Bencana Kebakaran,Petugas Pemadam,2:25,Ancol,Pademangan,Kota Administrasi Jakarta Utara,Mobil Golf,,Listrik,0,250000000
+1010,26,7,Jumat,Bencana Kebakaran,Masyarakat,17:00,Meruya Utara,Kembangan,Kota Administrasi Jakarta Barat,Kabel Udara PLN Dan Kabel Indovision,Bangunan Rendah,Listrik,0,30000000
+1011,27,7,Sabtu,Bencana Kebakaran,Masyarakat,2:55,Bendungan Hilir,Tanah Abang,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,0,3000000
+1012,27,7,Sabtu,Bencana Kebakaran,Masyarakat,11:45,Duren Sawit,Duren Sawit,Kota Administrasi Jakarta Timur,Mobil Minicup,,Listrik,0,3000000
+1013,27,7,Sabtu,Bencana Kebakaran,Masyarakat,13:35,Warakas,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Kompor,18,500000000
+1015,27,7,Sabtu,Bencana Kebakaran,Petugas Pemadam,20:18,Cengkareng Timur,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,8,350000000
+1016,28,7,Minggu,Bencana Kebakaran,Masyarakat,2:10,Maphar,Tamansari,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,0,60000000
+1018,28,7,Minggu,Bencana Kebakaran,Masyarakat,14:30,Cempaka Putih Barat,Cempaka Putih,Kota Administrasi Jakarta Pusat,Rumah Tinggal Lt.2,Bangunan Rendah,Listrik,4,150000000
+1019,29,7,Senin,Bencana Kebakaran,Masyarakat,13:20,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,5,200000000
+1020,29,7,Senin,Bencana Kebakaran,Masyarakat,18:10,Kelapa Gading Barat,Kelapa Gading,Kota Administrasi Jakarta Utara,Restaurant,Bangunan Rendah,Lain,0,15000000
+1021,29,7,Senin,Bencana Kebakaran,Masyarakat,19:10,Tebet Barat,Tebet,Kota Administrasi Jakarta Selatan,Gardu Listrik,Bangunan Rendah,Listrik,0,50000000
+1024,30,7,Selasa,Bencana Kebakaran,Petugas Instansi Lain,3:22,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Warung Klontong,,Listrik,1,15000000
+1026,30,7,Selasa,Bencana Kebakaran,Masyarakat,23:00,Pancoran,Pancoran,Kota Administrasi Jakarta Selatan,Gudang penyimpanan buku,Bangunan Rendah,Listrik,0,10000000
+1028,1,8,Kamis,Bencana Kebakaran,Masyarakat,10:15,Taman Sari,Tamansari,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,5,2000000
+1029,1,8,Kamis,Bencana Kebakaran,Masyarakat,15:48,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,10,500000000
+1030,1,8,Kamis,Bencana Kebakaran,Masyarakat,17:25,Kedaung Kali Angke,Cengkareng,Kota Administrasi Jakarta Barat,Warnet,Bangunan Rendah,Listrik,5,30000000
+1031,1,8,Kamis,Bencana Kebakaran,Masyarakat,17:48,Kembangan Utara,Kembangan,Kota Administrasi Jakarta Barat,Rumah Kontrakan,Bangunan Rendah,Listrik,0,30000000
+1034,2,8,Jumat,Bencana Kebakaran,Petugas Pemadam,9:10,Cijantung,Pasar Rebo,Kota Administrasi Jakarta Timur,Workshop,Bangunan Rendah,Listrik,0,80000000
+1036,2,8,Jumat,Bencana Kebakaran,Masyarakat,23:55,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,0,70000000
+1037,3,8,Sabtu,Bencana Kebakaran,Masyarakat,9:40,cipinang besar selatan,Jatinegara,Kota Administrasi Jakarta Timur,panel pompa,,Listrik,0,5000000000
+1038,3,8,Sabtu,Bencana Kebakaran,Masyarakat,17:45,Kebayoran Lama Utara,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Petakan,Bangunan Rendah,Listrik,86,1200000000
+1039,3,8,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,17:20,Kamal Muara,Penjaringan,Kota Administrasi Jakarta Utara,sekolah,Bangunan Rendah,Listrik,0,10000000
+1041,3,8,Sabtu,Bencana Kebakaran,Masyarakat,23:30,Utan Kayu Utara,Matraman,Kota Administrasi Jakarta Timur,Panel Listrik,Bangunan Rendah,Listrik,0,2000000
+1042,3,8,Sabtu,Bencana Kebakaran,Masyarakat,23:45,Menteng Atas,Setiabudi,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,4,2000000
+1044,4,8,Minggu,Bencana Kebakaran,Masyarakat,10:20,Mangga Besar,Tamansari,Kota Administrasi Jakarta Barat,Ruko,Bangunan Rendah,Listrik,5,30000000
+1046,4,8,Minggu,Bencana Kebakaran,Masyarakat,19:10,Penggilingan,Cakung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,15,400000000
+1051,6,8,Selasa,Bencana Kebakaran,Masyarakat,11:55,Cililitan,Kramat Jati,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,6,90000000
+1052,6,8,Selasa,Bencana Kebakaran,Petugas Instansi Lain,15:45,Melawai,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Restoran,Bangunan Menengah,Kompor,0,55000000
+1053,6,8,Selasa,Bencana Kebakaran,Masyarakat,8:13,Cikini,Menteng,Kota Administrasi Jakarta Pusat,Asrama Perawat,Bangunan Menengah,Listrik,0,20000000
+1054,7,8,Rabu,Bencana Kebakaran,Masyarakat,1:50,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Mobil Tangki BBM,,Lain,0,150000000
+1055,7,8,Rabu,Bencana Kebakaran,Masyarakat,3:50,Cakung Barat,Cakung,Kota Administrasi Jakarta Timur,Gudang Meuble,Bangunan Menengah,Listrik,0,960000000
+1056,7,8,Rabu,Bencana Kebakaran,Masyarakat,4:30,Tomang,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,15,500000000
+1058,7,8,Rabu,Bencana Kebakaran,Masyarakat,23:15,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,3,15000000
+1060,8,8,Kamis,Bencana Kebakaran,Masyarakat,1:05,Jatinegara Kaum,Pulogadung,Kota Administrasi Jakarta Timur,Rumah Tinggal Petak,Bangunan Rendah,Kompor,13,150000000
+1065,9,8,Jumat,Bencana Kebakaran,Masyarakat,2:30,Kebon Jeruk,Kebun Jeruk,Kota Administrasi Jakarta Barat,Mobil Sedan Terbakar,,Listrik,0,120000000
+1067,9,8,Jumat,Bencana Kebakaran,Masyarakat,12:45,Bintaro,Pesanggrahan,Kota Administrasi Jakarta Selatan,Rumah Kontrakan,Bangunan Rendah,Lain,4,75000000
+1068,9,8,Jumat,Bencana Kebakaran,Masyarakat,18:05,Cijantung,Pasar Rebo,Kota Administrasi Jakarta Timur,Kompor LPG,Bangunan Rendah,Kompor,6,1000000
+1069,9,8,Jumat,Bencana Kebakaran,Masyarakat,20:35,Kemanggisan,Palmerah,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,3,50000000
+1072,9,8,Jumat,Bencana Kebakaran,Petugas Pemadam,18:05,Cempaka Baru,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,0,300000000
+1073,10,8,Sabtu,Bencana Kebakaran,Masyarakat,2:05,Pondok Bambu,Duren Sawit,Kota Administrasi Jakarta Timur,Tumpukan Kayu,,Lain,0,5000000
+1074,10,8,Sabtu,Bencana Kebakaran,Petugas Pemadam,1:35,Angke,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,18,500000000
+1075,10,8,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,5:30,Meruya Selatan,Kembangan,Kota Administrasi Jakarta Barat,Kios,Bangunan Rendah,Listrik,6,120000000
+1076,10,8,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,8:25,Halim Perdana Kusuma,Makasar,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,4,300000000
+1077,10,8,Sabtu,Bencana Kebakaran,Masyarakat,12:30,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,50,1200000000
+1078,10,8,Sabtu,Bencana Kebakaran,Masyarakat,11:40,Kebon Jeruk,Kebun Jeruk,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,4,30000000
+1080,11,8,Minggu,Bencana Kebakaran,Masyarakat,1:45,Bali Mester,Jatinegara,Kota Administrasi Jakarta Timur,Toko,Bangunan Menengah,Listrik,0,800000000
+1081,11,8,Minggu,Bencana Kebakaran,Masyarakat,11:10,Jatipadang,Pasar Minggu,Kota Administrasi Jakarta Selatan,Mobil Fiat,,Listrik,0,15000000
+1082,11,8,Minggu,Bencana Kebakaran,Masyarakat,12:12,Pejaten Barat,Pasar Minggu,Kota Administrasi Jakarta Selatan,Gudang,Bangunan Rendah,Listrik,3,15000000
+1083,11,8,Minggu,Bencana Kebakaran,Masyarakat,12:50,Utan Kayu Selatan,Matraman,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,0,50000000
+1084,12,8,Senin,Bencana Kebakaran,Petugas Pemadam,14:45,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Bengkel mobil service jok.,Bangunan Menengah,Rokok,15,500000000
+1085,13,8,Selasa,Bencana Kebakaran,Masyarakat,2:42,Cakung Barat,Cakung,Kota Administrasi Jakarta Timur,Rumah Kontrakan,Bangunan Rendah,Listrik,8,216000000
+1087,13,8,Selasa,Bencana Kebakaran,Masyarakat,11:00,Tangerang,Tangerang,Kota Tangerang,Rumah Tinggal,Bangunan Rendah,Listrik,5,1000000
+1089,13,8,Selasa,Bencana Kebakaran,Petugas Instansi Lain,15:20,Ragunan,Pasar Minggu,Kota Administrasi Jakarta Selatan,Gudang,Bangunan Rendah,Rokok,1,5000000
+1090,13,8,Selasa,Bencana Kebakaran,Masyarakat,17:30,Bale Kambang,Kramat Jati,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,0,10000000
+1092,14,8,Rabu,Bencana Kebakaran,Masyarakat,13:05,Manggarai Selatan,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,9,75000000
+1094,15,8,Kamis,Bencana Kebakaran,Petugas Pemadam,11:30,Kebon Jeruk,Kebun Jeruk,Kota Administrasi Jakarta Barat,Gardu Listrik,,Listrik,0,5000000
+1095,15,8,Kamis,Bencana Kebakaran,Masyarakat,21:30,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Kapal Laut,,Lain,0,5000000000
+1097,16,8,Jumat,Bencana Kebakaran,Masyarakat,19:20,Tangerang,Tangerang,Kota Tangerang,Rumah Tinggal,Bangunan Rendah,Listrik,0,57000000
+1098,16,8,Jumat,Bencana Kebakaran,Masyarakat,23:20,Gunung Sahari Utara,Sawah Besar,Kota Administrasi Jakarta Pusat,Gd. OCBC NISP,Bangunan Tinggi,Listrik,0,5000000
+1100,17,8,Sabtu,Bencana Kebakaran,Masyarakat,9:00,Kali Anyar,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,11,1000000
+1101,17,8,Sabtu,Bencana Kebakaran,Masyarakat,20:20,Gunung Sahari Utara,Sawah Besar,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Lain,0,10000000
+1102,17,8,Sabtu,Bencana Kebakaran,Masyarakat,21:20,karet tengsin,Tanah Abang,Kota Administrasi Jakarta Pusat,Toyota Yaris,,Listrik,0,200000000
+1103,18,8,Minggu,Bencana Kebakaran,Petugas Pemadam,4:00,Duri Kosambi,Cengkareng,Kota Administrasi Jakarta Barat,Lapak Madura,Bangunan Rendah,Listrik,0,250000000
+1104,19,8,Senin,Bencana Kebakaran,Masyarakat,0:35,Pegadungan,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Lain,4,70000000
+1106,19,8,Senin,Bencana Kebakaran,Petugas Instansi Lain,11:30,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Tiang Listrik PLN,,Listrik,0,5000000
+1107,19,8,Senin,Bencana Bangunan Runtuh (operasi penyelamatan Collapse Structure).,Masyarakat,11:30,Srengseng,Kembangan,Kota Administrasi Jakarta Barat,Pohon Tumbang,,Lain,0,1000000
+1108,19,8,Senin,Bencana Kebakaran,Masyarakat,17:00,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,RumahTinggal,Bangunan Rendah,Listrik,8,50000000
+1109,19,8,Senin,Bencana Kebakaran,Masyarakat,19:40,Manggarai Selatan,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,4,10000000
+1110,19,8,Senin,Bencana Kebakaran,Petugas Instansi Lain,22:45,Kapuk Muara,Penjaringan,Kota Administrasi Jakarta Utara,PT. Zebra Asaba Industri,Bangunan Rendah,Listrik,0,500000000
+1112,20,8,Selasa,Bencana Kebakaran,Masyarakat,6:40,Gunung Sahari Selatan,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,0,1500000
+1113,20,8,Selasa,Bencana Kebakaran,Masyarakat,7:50,Sukabumi Utara,Kebun Jeruk,Kota Administrasi Jakarta Barat,Toko Meubel,Bangunan Rendah,Listrik,0,250000000
+1114,20,8,Selasa,Bencana Kebakaran,Masyarakat,17:30,Kartini,Sawah Besar,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,0,10000000
+1115,20,8,Selasa,Bencana Kebakaran,Masyarakat,18:00,Cikini,Menteng,Kota Administrasi Jakarta Pusat,Gedung IKJ,Bangunan Rendah,Listrik,0,120000000
+1117,21,8,Rabu,Bencana Kebakaran,Masyarakat,20:06,Taman Sari,Tamansari,Kota Administrasi Jakarta Barat,Kabel tegangan tinggi (Bawah tanah PLN),,Listrik,0,700000000
+1118,22,8,Kamis,Bencana Kebakaran,Masyarakat,9:45,Mangga Dua Selatan,Sawah Besar,Kota Administrasi Jakarta Pusat,Kios,Bangunan Rendah,Listrik,0,30000000
+1119,22,8,Kamis,Bencana Kebakaran,Masyarakat,14:05,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Ruko,Bangunan Rendah,Kompor,0,10000000
+1122,23,8,Jumat,Bencana Kebakaran,Masyarakat,1:45,Kartini,Sawah Besar,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,0,50000000
+1123,23,8,Jumat,Bencana Kebakaran,Masyarakat,4:30,Depok,Depok,Kota Depok,Rumah Tinggal,Bangunan Rendah,Listrik,9,1000000000
+1124,23,8,Jumat,Bencana Kebakaran,Masyarakat,9:05,Sunter Agung,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,0,100000000
+1125,23,8,Jumat,Bencana Kebakaran,Petugas Pemadam,15:45,Pinangsia,Tamansari,Kota Administrasi Jakarta Barat,Toko Elektronik,Bangunan Rendah,Lain,0,5000000
+1127,24,8,Sabtu,Bencana Kebakaran,Masyarakat,11:30,Rawa Terate,Cakung,Kota Administrasi Jakarta Timur,Tumpukan Kayu,,Lain,0,5000000
+1130,24,8,Sabtu,Bencana Kebakaran,Masyarakat,23:15,Pondok Rangon,Cipayung,Kota Administrasi Jakarta Timur,Tumpukan Barang Rongsokan,,Lain,0,5000000
+1132,25,8,Minggu,Bencana Kebakaran,Masyarakat,0:05,Jatinegara Kaum,Pulogadung,Kota Administrasi Jakarta Timur,Kamar Mandi Karyawan,Bangunan Menengah,Listrik,26,1926000000
+1133,25,8,Minggu,Bencana Kebakaran,Masyarakat,7:10,Klender,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Kosong,Bangunan Rendah,Lain,0,5000000
+1134,25,8,Minggu,Bencana Kebakaran,Petugas Pemadam,15:10,Cibubur,Ciracas,Kota Administrasi Jakarta Timur,Sekolah SMK 52,Bangunan Rendah,Listrik,0,700000000
+1135,26,8,Senin,Bencana Kebakaran,Masyarakat,12:25,Sukabumi Utara,Kebun Jeruk,Kota Administrasi Jakarta Barat,Rumah Tinggal Berlantai II,Bangunan Rendah,Listrik,7,800000000
+1137,26,8,Senin,Bencana Kebakaran,Masyarakat,18:30,Krendang,Tambora,Kota Administrasi Jakarta Barat,Rumah Konveksi,Bangunan Rendah,Listrik,0,2000000
+1138,26,8,Senin,Bencana Kebakaran,Masyarakat,21:48,Grogol Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Percetakan,Bangunan Rendah,Listrik,3,4000000000
+1139,27,8,Selasa,Bencana Kebakaran,Masyarakat,2:15,Kelapa Dua,Kebun Jeruk,Kota Administrasi Jakarta Barat,Kabel Udara PLN,,Listrik,0,2000000
+1141,27,8,Selasa,Bencana Kebakaran,Masyarakat,9:15,Cipete Utara,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Warung Makan,Bangunan Rendah,Listrik,15,155000000
+1142,27,8,Selasa,Bencana Kebakaran,Petugas Instansi Lain,20:10,Grogol Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Toko Abadi Jaya,Bangunan Rendah,Rokok,0,3000000
+1143,27,8,Selasa,Bencana Kebakaran,Masyarakat,20:15,Menteng Atas,Setiabudi,Kota Administrasi Jakarta Selatan,Pemanas Air  (Water Heater),,Listrik,4,10000000
+1144,27,8,Selasa,Bencana Kebakaran,Masyarakat,23:45,Duri Kosambi,Cengkareng,Kota Administrasi Jakarta Barat,Kabel Udara PLN,,Listrik,0,5000000
+1145,28,8,Rabu,Bencana Kebakaran,Masyarakat,8:15,Lagoa,Koja,Kota Administrasi Jakarta Utara,Rumah Tinggal Kosan,Bangunan Rendah,Listrik,3,30000000
+1146,28,8,Rabu,Bencana Kebakaran,Masyarakat,9:10,Kalideres,Kalideres,Kota Administrasi Jakarta Barat,Rumah Kontrakan,Bangunan Rendah,Lain,5,15000000
+1147,28,8,Rabu,Bencana Kebakaran,Petugas Instansi Lain,19:10,Kebagusan,Pasar Minggu,Kota Administrasi Jakarta Selatan,Mobil Kijang Inova B.8392NS,,Listrik,0,50000000
+1149,29,8,Kamis,Bencana Kebakaran,Masyarakat,17:45,Duri Kepa,Kebun Jeruk,Kota Administrasi Jakarta Barat,Rumah Kontrakan,Bangunan Rendah,Listrik,80,160000000
+1150,30,8,Jumat,Bencana Kebakaran,Masyarakat,3:05,Kebon Melati,Tanah Abang,Kota Administrasi Jakarta Pusat,Rumah Kontrakan,Bangunan Rendah,Listrik,3,20000000
+1151,30,8,Jumat,Bencana Kebakaran,Masyarakat,6:20,Gandaria Utara,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,17,300000000
+1152,30,8,Jumat,Bencana Kebakaran,Masyarakat,9:30,Kebon Jeruk,Kebun Jeruk,Kota Administrasi Jakarta Barat,Travo Tiang Listrik,,Listrik,0,50000000
+1153,30,8,Jumat,Bencana Kebakaran,Masyarakat,12:10,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Lapak Pemulung,Bangunan Rendah,Lain,50,50000000
+1154,30,8,Jumat,Bencana Kebakaran,Masyarakat,17:50,Sunter Agung,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal 3 Lantai,Bangunan Rendah,Listrik,5,30000000
+1155,30,8,Jumat,Bencana Kebakaran,Masyarakat,19:31,Petojo Selatan,Gambir,Kota Administrasi Jakarta Pusat,Kabel Bawah Tanah PLN,,Listrik,0,1000000
+1156,31,8,Sabtu,Bencana Kebakaran,Masyarakat,0:55,Duri Selatan,Tambora,Kota Administrasi Jakarta Barat,Kabel Udara PLN,,Listrik,0,10000000
+1159,31,8,Sabtu,Bencana Kebakaran,Masyarakat,10:45,Johar Baru,Johar Baru,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,4,1000000
+1160,31,8,Sabtu,Bencana Kebakaran,Petugas Pemadam,14:25,Lagoa,Koja,Kota Administrasi Jakarta Utara,Motor,,Listrik,0,2000000
+1161,31,8,Sabtu,Bencana Kebakaran,Masyarakat,19:10,Pondok Kelapa,Duren Sawit,Kota Administrasi Jakarta Timur,Mobil,,Listrik,0,6000000
+1162,31,8,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,20:35,Pademangan Timur,Pademangan,Kota Administrasi Jakarta Utara,Rumah Konveksi,Bangunan Rendah,Listrik,15,10000000
+1163,1,9,Minggu,Bencana Kebakaran,Masyarakat,5:30,Tanjung Duren Utara,Grogol Petamburan,Kota Administrasi Jakarta Barat,Kabel Udara PLN,,Listrik,0,1000000
+1164,2,9,Senin,Bencana Kebakaran,Masyarakat,8:22,Cengkareng Timur,Cengkareng,Kota Administrasi Jakarta Barat,AC (Pendingin Udara),,Listrik,0,15000000
+1165,2,9,Senin,Bencana Kebakaran,Masyarakat,13:50,Tebet Barat,Tebet,Kota Administrasi Jakarta Selatan,Mobil Daihatsu Espass,,Listrik,0,75000000
+1167,2,9,Senin,Bencana Kebakaran,Masyarakat,14:55,Kemanggisan,Palmerah,Kota Administrasi Jakarta Barat,Rumah Tinggal 2 lantai,Bangunan Rendah,Listrik,4,100000000
+1169,2,9,Senin,Bencana Kebakaran,Masyarakat,22:50,Pondok Kelapa,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Petakan,Bangunan Rendah,Listrik,6,350000000
+1170,3,9,Selasa,Bencana Kebakaran,Masyarakat,21:22,Tanah Tinggi,Johar Baru,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,0,5000000
+1171,3,9,Selasa,Bencana Kebakaran,Petugas Pemadam,22:20,Pegangsaan,Menteng,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,0,1000000
+1172,4,9,Rabu,Bencana Kebakaran,Masyarakat,8:20,Harapan Mulia,Kemayoran,Kota Administrasi Jakarta Pusat,Ruko Lantai IV,Bangunan Menengah,Listrik,6,15000000
+1173,4,9,Rabu,Bencana Kebakaran,Masyarakat,23:05,Duri Kepa,Kebun Jeruk,Kota Administrasi Jakarta Barat,Ruko Lantai IV,Bangunan Rendah,Listrik,0,650000000
+1174,4,9,Rabu,Bencana Kebakaran,Masyarakat,2:05,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Ruko,Bangunan Menengah,Listrik,8,1000000000
+1175,5,9,Kamis,Bencana Kebakaran,Petugas Pemadam,17:50,Ciracas,Ciracas,Kota Administrasi Jakarta Timur,Gerobak Gorengan,,Kompor,0,1500000
+1176,5,9,Kamis,Bencana Kebakaran,Petugas Instansi Lain,20:20,Kembangan Selatan,Kembangan,Kota Administrasi Jakarta Barat,Pos Satpam,Bangunan Rendah,Listrik,0,1000000
+1177,6,9,Jumat,Bencana Kebakaran,Masyarakat,0:25,Cengkareng Timur,Cengkareng,Kota Administrasi Jakarta Barat,Mobil (Honda Jazz),Bangunan Rendah,Listrik,0,100000000
+1178,6,9,Jumat,Bencana Kebakaran,Petugas Pemadam,11:55,Rawa Buaya,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,10,200000000
+1179,6,9,Jumat,Bencana Kebakaran,Masyarakat,23:50,Jembatan Besi,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,4,100000000
+1180,8,9,Minggu,Bencana Kebakaran,Masyarakat,3:45,Halim Perdana Kusuma,Makasar,Kota Administrasi Jakarta Timur,Kabel PLN,,Listrik,0,1000000
+1181,8,9,Minggu,Bencana Kebakaran,Masyarakat,7:42,Utan Kayu Utara,Matraman,Kota Administrasi Jakarta Timur,Dispenser,Bangunan Rendah,Listrik,0,1000000
+1182,8,9,Minggu,Bencana Kebakaran,Masyarakat,8:40,Kamal,Kalideres,Kota Administrasi Jakarta Barat,Ruangan Kantor,Bangunan Menengah,Listrik,0,75000000
+1183,8,9,Minggu,Bencana Kebakaran,Masyarakat,9:07,Pondok Bambu,Duren Sawit,Kota Administrasi Jakarta Timur,Toko Meuble,Bangunan Menengah,Listrik,0,900000000
+1185,8,9,Minggu,Bencana Kebakaran,Masyarakat,22:25,Cakung Timur,Cakung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,5,50000000
+1186,8,9,Minggu,Bencana Kebakaran,Petugas Instansi Lain,23:13,Galur,Johar Baru,Kota Administrasi Jakarta Pusat,Bus Trans Jakarta,,Lain,0,45000000
+1187,8,9,Minggu,Bencana Kebakaran,Masyarakat,21:35,Ciracas,Ciracas,Kota Administrasi Jakarta Timur,Ruang dapur,Bangunan Rendah,Listrik,4,20000000
+1188,8,9,Minggu,Bencana Kebakaran,Masyarakat,22:55,Meruya Utara,Kembangan,Kota Administrasi Jakarta Barat,Gardu Listrik,,Listrik,0,5000000
+1190,9,9,Senin,Bencana Kebakaran,Masyarakat,17:00,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,8,5000000
+1191,9,9,Senin,Bencana Kebakaran,Masyarakat,20:10,Utan Panjang,Kemayoran,Kota Administrasi Jakarta Pusat,Bengkel,Bangunan Rendah,Lain,12,30000000
+1192,9,9,Senin,Bencana Kebakaran,Masyarakat,20:35,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,20,750000000
+1193,9,9,Senin,Bencana Kebakaran,Masyarakat,19:30,Wijaya Kusuma,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Rokok,0,5000000
+1194,10,9,Selasa,Bencana Kebakaran,Masyarakat,11:25,Kampung Tengah,Kramat Jati,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Rokok,5,5000000
+1195,11,9,Rabu,Bencana Kebakaran,Masyarakat,9:35,Pela Mampang,Mampang Prapatan,Kota Administrasi Jakarta Selatan,Kantor RW 07,Bangunan Rendah,Listrik,0,50000000
+1196,11,9,Rabu,Bencana Kebakaran,Masyarakat,22:20,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Mushola,Bangunan Rendah,Listrik,0,15000000
+1197,12,9,Kamis,Bencana Kebakaran,Masyarakat,4:35,Wijaya Kusuma,Grogol Petamburan,Kota Administrasi Jakarta Barat,Kios tambal ban,Bangunan Rendah,Listrik,0,75000000
+1199,12,9,Kamis,Bencana Kebakaran,Masyarakat,19:30,Cikini,Menteng,Kota Administrasi Jakarta Pusat,Restaurant,Bangunan Rendah,Kompor,0,30000000
+1200,13,9,Jumat,Bencana Kebakaran,Masyarakat,14:25,Halim Perdana Kusuma,Makasar,Kota Administrasi Jakarta Timur,Box Listrik PLN,,Listrik,0,1000000
+1201,13,9,Jumat,Bencana Kebakaran,Masyarakat,20:50,Jatinegara,Cakung,Kota Administrasi Jakarta Timur,Lapak-lapak Madura,Bangunan Rendah,Listrik,15,15000000
+1203,15,9,Minggu,Bencana Kebakaran,Petugas Instansi Lain,5:55,Wijaya Kusuma,Grogol Petamburan,Kota Administrasi Jakarta Barat,Mobil Toyota Avanza,,Lain,0,200000000
+1204,15,9,Minggu,Bencana Kebakaran,Masyarakat,5:20,Bekasi,Bekasi,Kota Bekasi,Bengkel Meubel,,Listrik,16,950000000
+1205,15,9,Minggu,Bencana Kebakaran,Masyarakat,7:30,Kelapa Dua,Kebun Jeruk,Kota Administrasi Jakarta Barat,Bakeri Roti,Bangunan Rendah,Listrik,6,30000000
+1206,15,9,Minggu,Bencana Kebakaran,Masyarakat,10:45,Ragunan,Pasar Minggu,Kota Administrasi Jakarta Selatan,Bedeng Warung Makan,,Kompor,0,3000000
+1207,15,9,Minggu,Bencana Kebakaran,Masyarakat,17:48,Sungai Bambu,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,0,70000000
+1208,15,9,Minggu,Bencana Kebakaran,Masyarakat,22:00,Manggarai Selatan,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,0,2000000
+1209,16,9,Senin,Bencana Kebakaran,Masyarakat,5:40,Ciracas,Ciracas,Kota Administrasi Jakarta Timur,Warung Makan Tegal,Bangunan Rendah,Lain,0,50000000
+1210,16,9,Senin,Bencana Kebakaran,Masyarakat,9:50,Duren Sawit,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,4,30000000
+1211,16,9,Senin,Bencana Kebakaran,Masyarakat,13:55,Kebayoran Lama Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Kontrakan,Bangunan Rendah,Listrik,6,50000000
+1213,17,9,Selasa,Bencana Kebakaran,Masyarakat,2:02,Sukabumi Utara,Kebun Jeruk,Kota Administrasi Jakarta Barat,Rumah Tinggal berlantai II,Bangunan Rendah,Lain,5,75000000
+1214,17,9,Selasa,Bencana Kebakaran,Masyarakat,2:45,Jati,Pulogadung,Kota Administrasi Jakarta Timur,Ruko,Bangunan Rendah,Listrik,0,300000000
+1215,17,9,Selasa,Bencana Kebakaran,Masyarakat,3:25,Kalibaru,Cilincing,Kota Administrasi Jakarta Utara,Gudang Kayu,Bangunan Rendah,Listrik,44,3000000000
+1216,17,9,Selasa,Bencana Kebakaran,Masyarakat,10:20,Kebon Pala,Makasar,Kota Administrasi Jakarta Timur,Gerobak Bakso,,Lain,0,1000000
+1217,17,9,Selasa,Bencana Kebakaran,Masyarakat,11:05,Pulo Gebang,Cakung,Kota Administrasi Jakarta Timur,Gubuk dan tumpukan sampah,Bangunan Rendah,Lain,3,5000000
+1218,18,9,Rabu,Bencana Kebakaran,Masyarakat,2:25,Petukangan Utara,Pesanggrahan,Kota Administrasi Jakarta Selatan,Warung Makan,Bangunan Rendah,Listrik,0,96000000
+1219,18,9,Rabu,Bencana Kebakaran,Masyarakat,13:40,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,3,50000000
+1220,18,9,Rabu,Bencana Kebakaran,Masyarakat,22:25,Klender,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Makan,Bangunan Rendah,Kompor,0,10000000
+1221,18,9,Rabu,Bencana Kebakaran,Masyarakat,16:10,Sukabumi selatan,Kebun Jeruk,Kota Administrasi Jakarta Barat,Studio Musik,Bangunan Rendah,Listrik,2,50000000
+1222,19,9,Kamis,Bencana Kebakaran,Petugas Pemadam,2:35,Kramat Jati,Kramat Jati,Kota Administrasi Jakarta Timur,Toko Elektronik,Bangunan Rendah,Listrik,0,300000000
+1223,19,9,Kamis,Bencana Kebakaran,Masyarakat,17:00,Wijaya Kusuma,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,0,40000000
+1225,19,9,Kamis,Bencana Kebakaran,Masyarakat,20:22,Kelapa Dua,Kebun Jeruk,Kota Administrasi Jakarta Barat,Toko Mebel,Bangunan Rendah,Listrik,0,10000000
+1227,20,9,Jumat,Bencana Kebakaran,Petugas Pemadam,7:35,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Ruko 3 Lantai,Bangunan Rendah,Listrik,0,2000000
+1229,20,9,Jumat,Bencana Kebakaran,Petugas Instansi Lain,22:40,Cideng,Gambir,Kota Administrasi Jakarta Pusat,Gardu listrik,,Listrik,0,5000000
+1230,20,9,Jumat,Bencana Kebakaran,Masyarakat,23:30,Tangerang,Tangerang,Kota Tangerang,Kamar tidur,Bangunan Rendah,Listrik,0,10000000
+1232,21,9,Sabtu,Bencana Kebakaran,Masyarakat,6:50,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Rs. Grand Family,Bangunan Menengah,Listrik,0,100000000
+1234,22,9,Minggu,Bencana Kebakaran,Masyarakat,7:05,Ciracas,Ciracas,Kota Administrasi Jakarta Timur,Mobil Truk,,Listrik,0,40000000
+1235,22,9,Minggu,Bencana Kebakaran,Masyarakat,12:20,Tebet Barat,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,6,40000000
+1236,22,9,Minggu,Bencana Kebakaran,Masyarakat,13:55,Kalideres,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,18,500000000
+1237,22,9,Minggu,Bencana Kebakaran,Masyarakat,15:45,Pangadegan,Pancoran,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,3,40000000
+1238,22,9,Minggu,Bencana Kebakaran,Masyarakat,16:50,Duren Tiga,Pancoran,Kota Administrasi Jakarta Selatan,Toko Bangunan,Bangunan Rendah,Lain,9,3000000000
+1239,23,9,Senin,Bencana Kebakaran,Masyarakat,4:45,Kalideres,Kalideres,Kota Administrasi Jakarta Barat,Toko Sembako,Bangunan Rendah,Listrik,0,5000000
+1241,23,9,Senin,Bencana Kebakaran,Masyarakat,12:30,Kwitang,Senen,Kota Administrasi Jakarta Pusat,Tempat tidur,Bangunan Rendah,Rokok,0,1000000
+1242,23,9,Senin,Bencana Kebakaran,Masyarakat,15:32,Cibubur,Ciracas,Kota Administrasi Jakarta Timur,Rumah tinggal,Bangunan Rendah,Listrik,6,1000000000
+1243,23,9,Senin,Bencana Kebakaran,Petugas Instansi Lain,18:25,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah tinggal,Bangunan Rendah,Listrik,30,3000000000
+1246,25,9,Rabu,Bencana Kebakaran,Masyarakat,13:40,Sumur Batu,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,0,2000000
+1247,25,9,Rabu,Bencana Kebakaran,Masyarakat,23:00,Tanjung Barat,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,7,300000000
+1249,26,9,Kamis,Bencana Kebakaran,Masyarakat,7:45,Rawa Badak Utara,Koja,Kota Administrasi Jakarta Utara,Rumah tinggal,Bangunan Rendah,Listrik,5,50000000
+1251,26,9,Kamis,Bencana Kebakaran,Masyarakat,15:30,Cipete selatan,Cilandak,Kota Administrasi Jakarta Selatan,Rumah tinggal,Bangunan Rendah,Lain,4,75000000
+1252,26,9,Kamis,Bencana Kebakaran,Masyarakat,18:33,Kayu Putih,Pulogadung,Kota Administrasi Jakarta Timur,Kabel udara PLN,,Listrik,0,1500000
+1253,26,9,Kamis,Bencana Kebakaran,Masyarakat,21:35,Sunter Jaya,Tanjung Priok,Kota Administrasi Jakarta Utara,Ruang perkantoran,Bangunan Menengah,Listrik,0,40000000
+1254,26,9,Kamis,Bencana Kebakaran,Masyarakat,18:10,Gelora,Tanah Abang,Kota Administrasi Jakarta Pusat,Mobil KIA Carrens,,Listrik,0,70000000
+1255,27,9,Jumat,Bencana Kebakaran,Masyarakat,7:50,Pejaten Barat,Pasar Minggu,Kota Administrasi Jakarta Selatan,Toko Bangunan,Bangunan Rendah,Listrik,0,500000000
+1256,27,9,Jumat,Bencana Kebakaran,Masyarakat,11:10,Melawai,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Hotel Golden Boutique,Bangunan Menengah,Listrik,0,500000000
+1257,27,9,Jumat,Bencana Kebakaran,Masyarakat,11:25,Cibubur,Ciracas,Kota Administrasi Jakarta Timur,Rumah Kontrakan,Bangunan Rendah,Listrik,3,10000000
+1258,28,9,Sabtu,Bencana Kebakaran,Masyarakat,1:46,Jelambar,Grogol Petamburan,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,4,500000000
+1259,28,9,Sabtu,Bencana Kebakaran,Masyarakat,8:30,Srengseng,Kembangan,Kota Administrasi Jakarta Barat,Lapak Madura,Bangunan Rendah,Lain,0,10000000
+1262,28,9,Sabtu,Bencana Kebakaran,Masyarakat,21:15,Pal meriam,Matraman,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,20,450000000
+1265,1,10,Selasa,Bencana Kebakaran,Masyarakat,3:15,Kelapa Gading Barat,Kelapa Gading,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,54,2000000000
+1266,1,10,Selasa,Bencana Kebakaran,Masyarakat,11:20,Cipedak,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,3,2000000
+1267,1,10,Selasa,Bencana Kebakaran,Petugas Instansi Lain,13:58,Pejaten Barat,Pasar Minggu,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,4,20000000
+1268,1,10,Selasa,Bencana Kebakaran,Masyarakat,16:20,Sukabumi selatan,Kebun Jeruk,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Lain,,200000000
+1270,1,10,Selasa,Bencana Kebakaran,Masyarakat,14:00,Sumur Batu,Kemayoran,Kota Administrasi Jakarta Pusat,Ruko,Bangunan Rendah,Rokok,,5000000
+1271,2,10,Rabu,Bencana Kebakaran,Masyarakat,2:10,Cempaka Putih Barat,Cempaka Putih,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,25,1500000000
+1272,2,10,Rabu,Bencana Kebakaran,Masyarakat,7:46,kalideres,Kalideres,Kota Administrasi Jakarta Barat,Tabung Gas,,Kompor,,10000000
+1273,2,10,Rabu,Bencana Kebakaran,Masyarakat,9:05,Duren tiga,Pancoran,Kota Administrasi Jakarta Selatan,Rumah tinggal,Bangunan Rendah,Listrik,4,10000000
+1274,2,10,Rabu,Bencana Kebakaran,Masyarakat,13:10,Kelapa dua,Kebun Jeruk,Kota Administrasi Jakarta Barat,Bengkel,Bangunan Rendah,Listrik,,500000000
+1278,3,10,Kamis,Bencana Kebakaran,Masyarakat,4:40,Cempaka Putih Barat,Cempaka Putih,Kota Administrasi Jakarta Pusat,Kompor Gas,Bangunan Rendah,Kompor,,2000000
+1279,3,10,Kamis,Bencana Kebakaran,Masyarakat,16:05,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,5,25000000
+1282,3,10,Kamis,Bencana Kebakaran,Masyarakat,10:05,Jelambar,Grogol Petamburan,Kota Administrasi Jakarta Barat,Pabrik Plastik,Bangunan Rendah,Lain,14,32000000000
+1283,4,10,Jumat,Bencana Kebakaran,Masyarakat,8:55,Ulujami,Pesanggrahan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,1,10000000
+1284,4,10,Jumat,Bencana Kebakaran,Masyarakat,19:00,Palmerah,Palmerah,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,20,550000000
+1285,5,10,Sabtu,Bencana Kebakaran,Masyarakat,2:51,Pancoran,Pancoran,Kota Administrasi Jakarta Selatan,Taxi Express,,Listrik,,120000000
+1286,5,10,Sabtu,Bencana Kebakaran,Masyarakat,3:45,Rorotan,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,13,200000000
+1288,5,10,Sabtu,Bencana Kebakaran,Masyarakat,13:50,Tebet Barat,Tebet,Kota Administrasi Jakarta Selatan,Gardu Listrik PLN,Bangunan Rendah,Listrik,,100000000
+1289,5,10,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,16:45,Kebayoran Lama Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Mobil Mitsubishi,,Listrik,,60000000
+1291,5,10,Sabtu,Bencana Kebakaran,Petugas Instansi Lain,11:25,Pegadungan,Kalideres,Kota Administrasi Jakarta Barat,Gardu listrik,Bangunan Rendah,Listrik,,30000000
+1293,6,10,Minggu,Bencana Kebakaran,Masyarakat,0:00,Tangerang,Tangerang,Kota Tangerang,Kios/ Toko,Bangunan Rendah,Listrik,,250000000
+1294,6,10,Minggu,Bencana Kebakaran,Masyarakat,3:25,Cipedak,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Makan,Bangunan Rendah,Listrik,,5000000
+1295,6,10,Minggu,Bencana Kebakaran,Masyarakat,14:00,Mangga Dua Selatan,Sawah Besar,Kota Administrasi Jakarta Pusat,Ruko (3 lantai),Bangunan Rendah,Lain,0,200000000
+1296,6,10,Minggu,Bencana Kebakaran,Petugas Pemadam,10:00,Rawamangun,Pulogadung,Kota Administrasi Jakarta Timur,Tiang Listrik,Bangunan Rendah,Listrik,0,5000000
+1299,7,10,Senin,Bencana Kebakaran,Masyarakat,11:00,Mampang Prapatan,Mampang Prapatan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,5,100000000
+1300,7,10,Senin,Bencana Kebakaran,Masyarakat,12:14,Grogol Utara,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,4,80000000
+1301,7,10,Senin,Bencana Kebakaran,Masyarakat,13:40,Bekasi,Bekasi,Kota Bekasi,Rumah Kontrakan,Bangunan Rendah,Listrik,25,1000000000
+1302,7,10,Senin,Bencana Kebakaran,Masyarakat,14:50,Karet Semanggi,Setiabudi,Kota Administrasi Jakarta Selatan,Kantor Kelurahan,Bangunan Rendah,Listrik,,200000000
+1304,7,10,Senin,Bencana Kebakaran,Masyarakat,19:50,Manggarai Selatan,Tebet,Kota Administrasi Jakarta Selatan,Kabel PLN,,Listrik,,2000000
+1305,7,10,Senin,Bencana Kebakaran,Masyarakat,12:30,Kebon Kelapa,Gambir,Kota Administrasi Jakarta Pusat,Ruko,Bangunan Rendah,Listrik,,5000000
+1306,7,10,Senin,Bencana Kebakaran,Masyarakat,20:15,Bendungan Hilir,Tanah Abang,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,,18000000
+1308,8,10,Selasa,Bencana Kebakaran,Masyarakat,19:30,Grogol Utara,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Kabel Udara PLN,,Listrik,,1000000
+1309,8,10,Selasa,Bencana Kebakaran,Petugas Instansi Lain,22:45,Pulo Gebang,Cakung,Kota Administrasi Jakarta Timur,Bengkel (Kios) Jok Motor dan Molbil,Bangunan Rendah,Listrik,,35000000
+1310,9,10,Rabu,Bencana Kebakaran,Petugas Pemadam,7:00,Semper Barat,Cilincing,Kota Administrasi Jakarta Utara,Mesin ATM,,Listrik,,200000000
+1312,9,10,Rabu,Bencana Kebakaran,Masyarakat,14:40,Jelambar,Grogol Petamburan,Kota Administrasi Jakarta Barat,Mini Market (indomart),Bangunan Rendah,Listrik,,300000000
+1313,9,10,Rabu,Bencana Kebakaran,Masyarakat,15:15,Semanan,Kalideres,Kota Administrasi Jakarta Barat,Mobil B.1977.UI,,Lain,,45000000
+1314,9,10,Rabu,Bencana Kebakaran,Masyarakat,16:25,Pinang Ranti,Makasar,Kota Administrasi Jakarta Timur,Bus Trans Jakarta,,Listrik,,60000000
+1315,9,10,Rabu,Bencana Kebakaran,Masyarakat,10:05,Jati Pulo,Palmerah,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,4,50000000
+1316,10,10,Kamis,Bencana Kebakaran,Masyarakat,8:20,Cilincing,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,7,300000000
+1318,10,10,Kamis,Bencana Kebakaran,Masyarakat,14:43,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,3,3000000
+1319,10,10,Kamis,Bencana Kebakaran,Masyarakat,15:00,Jatinegara,Cakung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,30,150000000
+1320,10,10,Kamis,Bencana Kebakaran,Masyarakat,16:00,Bambu Apus,Cipayung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,4,50000000
+1323,11,10,Jumat,Bencana Kebakaran,Masyarakat,5:50,Semanan,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,4,20000000
+1324,11,10,Jumat,Bencana Kebakaran,Masyarakat,12:10,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Kompor Gas,Bangunan Rendah,Kompor,4,3000000
+1326,13,10,Minggu,Bencana Kebakaran,Petugas Instansi Lain,18:35,Tangki,Tamansari,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,45,260000000
+1327,14,10,Senin,Bencana Kebakaran,Masyarakat,1:35,Pegadungan,Kalideres,Kota Administrasi Jakarta Barat,Peternakan Burung,Bangunan Rendah,Listrik,,5000000
+1328,14,10,Senin,Bencana Kebakaran,Masyarakat,9:00,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Gudang Ban Swalaw,Bangunan Menengah,Lain,,5000000000
+1331,14,10,Senin,Bencana Kebakaran,Masyarakat,17:00,Pulogadung,Pulogadung,Kota Administrasi Jakarta Timur,Rumah tinggal,Bangunan Rendah,Listrik,5,75000000
+1332,14,10,Senin,Bencana Kebakaran,Petugas Pemadam,9:55,Bendungan Hilir,Tanah Abang,Kota Administrasi Jakarta Pusat,Kantor BPK Lt. 11,Bangunan Tinggi,Listrik,,50000000
+1333,15,10,Selasa,Bencana Kebakaran,Masyarakat,15:00,Cilincing,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,6,50000000
+1334,15,10,Selasa,Bencana Kebakaran,Masyarakat,23:40,Rawasari,Cempaka Putih,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,,1000000
+1335,16,10,Rabu,Bencana Kebakaran,Masyarakat,0:30,Kebayoran Lama Selatan,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,32,450000000
+1337,16,10,Rabu,Bencana Kebakaran,Masyarakat,2:30,Taman Sari,Tamansari,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,45,1450000000
+1338,16,10,Rabu,Bencana Kebakaran,Masyarakat,21:05,Rawa Badak Utara,Koja,Kota Administrasi Jakarta Utara,Yayasan Al Hidayah,Bangunan Rendah,Kompor,,1000000
+1340,16,10,Rabu,Bencana Kebakaran,Petugas Pemadam,14:10,Kemanggisan,Palmerah,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,4,50000000
+1341,17,10,Kamis,Bencana Kebakaran,Petugas Pemadam,5:10,Kedoya Utara,Kebun Jeruk,Kota Administrasi Jakarta Barat,Pom Bensin,Bangunan Rendah,Lain,,50000000
+1342,17,10,Kamis,Bencana Kebakaran,Masyarakat,8:55,Pulo Gebang,Cakung,Kota Administrasi Jakarta Timur,Rumah tinggal,Bangunan Rendah,Listrik,5,1000000000
+1343,17,10,Kamis,Bencana Kebakaran,Masyarakat,17:35,Mangga Dua Selatan,Sawah Besar,Kota Administrasi Jakarta Pusat,Gudang kain (Textile),Bangunan Rendah,Listrik,,100000000
+1344,18,10,Jumat,Bencana Kebakaran,Masyarakat,2:55,Rawasari,Cempaka Putih,Kota Administrasi Jakarta Pusat,Mobil Nissa X-Trail,,Listrik,,50000000
+1345,18,10,Jumat,Bencana Kebakaran,Masyarakat,11:20,Semper Barat,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,5,70000000
+1346,18,10,Jumat,Bencana Kebakaran,Petugas Pemadam,17:20,Gunung Sahari Selatan,Kemayoran,Kota Administrasi Jakarta Pusat,Sekolah SMK I Taman Siswa,Bangunan Rendah,Listrik,,250000000
+1347,18,10,Jumat,Bencana Kebakaran,Masyarakat,21:45,Ancol,Pademangan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,9,100000000
+1348,18,10,Jumat,Bencana Kebakaran,Masyarakat,21:48,Kapuk Muara,Penjaringan,Kota Administrasi Jakarta Utara,Kios Bensin Eceran,Bangunan Rendah,Lain,,1000000
+1349,18,10,Jumat,Bencana Bangunan Runtuh (operasi penyelamatan Collapse Structure).,Petugas Instansi Lain,11:45,Jati Pulo,Palmerah,Kota Administrasi Jakarta Barat,Pohon Tumbang,,Lain,,1000000
+1350,18,10,Jumat,Bencana Kebakaran,Petugas Pemadam,21:20,Kebon Melati,Tanah Abang,Kota Administrasi Jakarta Pusat,Rumah Tingga,Bangunan Rendah,Lain,8,50000000
+1351,19,10,Sabtu,Bencana Kebakaran,Petugas Pemadam,3:15,Kenari,Senen,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,30,300000000
+1352,19,10,Sabtu,Bencana Kebakaran,Masyarakat,0:00,Jelambar Baru,Grogol Petamburan,Kota Administrasi Jakarta Barat,Warung Klontong,,Listrik,,5000000
+1353,19,10,Sabtu,Bencana Kebakaran,Masyarakat,9:50,Pangadegan,Pancoran,Kota Administrasi Jakarta Selatan,Gardu Listrik,Bangunan Rendah,Listrik,,100000000
+1355,19,10,Sabtu,Bencana Kebakaran,Masyarakat,10:40,Rawa Buaya,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,,10000000
+1358,20,10,Minggu,Bencana Kebakaran,Masyarakat,3:45,Kembangan Selatan,Kembangan,Kota Administrasi Jakarta Barat,Warteg,Bangunan Rendah,Listrik,3,1500000
+1360,20,10,Minggu,Bencana Kebakaran,Masyarakat,8:40,Bale Kambang,Kramat Jati,Kota Administrasi Jakarta Timur,Mobil angkot,,Listrik,,80000000
+1364,22,10,Selasa,Bencana Kebakaran,Petugas Instansi Lain,3:45,Karet Semanggi,Setiabudi,Kota Administrasi Jakarta Selatan,Baligho,,Lain,,150000000
+1365,21,10,Senin,Bencana Kebakaran,Masyarakat,18:25,Wijaya Kusuma,Grogol Petamburan,Kota Administrasi Jakarta Barat,Pabrik DOMINO,Bangunan Rendah,Listrik,,1000000000
+1367,22,10,Selasa,Bencana Bangunan Runtuh (operasi penyelamatan Collapse Structure).,Masyarakat,15:29,Menteng Dalam,Tebet,Kota Administrasi Jakarta Selatan,Tiang Bangunan Roboh,,Lain,,60000000
+1369,23,10,Rabu,Bencana Kebakaran,Masyarakat,0:00,Pesanggrahan,Pesanggrahan,Kota Administrasi Jakarta Selatan,Bedeng Proyek,Bangunan Rendah,Lain,,3000000
+1370,23,10,Rabu,Bencana Kebakaran,Masyarakat,13:00,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,5,40000000
+1373,23,10,Rabu,Bencana Kebakaran,Masyarakat,19:24,Tanah Sereal,Tambora,Kota Administrasi Jakarta Barat,Kabel Listrik,,Listrik,,10000000
+1375,24,10,Kamis,Bencana Kebakaran,Masyarakat,5:05,Kebon Bawang,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah tinggal,Bangunan Rendah,Lain,4,20000000
+1376,24,10,Kamis,Bencana Kebakaran,Masyarakat,11:30,Petukangan Selatan,Pesanggrahan,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,4,300000000
+1377,24,10,Kamis,Bencana Kebakaran,Masyarakat,18:30,Cawang,Kramat Jati,Kota Administrasi Jakarta Timur,Rumah Tinggal & Kontrakan,Bangunan Rendah,Listrik,15,250000000
+1378,25,10,Jumat,Bencana Kebakaran,Masyarakat,9:00,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Makan,Bangunan Rendah,Listrik,,60000000
+1379,25,10,Jumat,Bencana Kebakaran,Masyarakat,10:30,Tangerang,Tangerang,Kota Tangerang,Rumah Kontrakan,Bangunan Rendah,Listrik,6,10000000
+1382,26,10,Sabtu,Bencana Kebakaran,Masyarakat,5:50,Mangga Besar,Tamansari,Kota Administrasi Jakarta Barat,Apartemen Jayakarta,Bangunan Tinggi,Listrik,,10000000
+1385,26,10,Sabtu,Bencana Kebakaran,Masyarakat,17:30,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Kabel Tiang Listrik,,Listrik,,100000000
+1387,27,10,Minggu,Bencana Kebakaran,Petugas Pemadam,7:25,Wijaya Kusuma,Grogol Petamburan,Kota Administrasi Jakarta Barat,Ban Traktor Bekas,,Lain,,5000000
+1389,27,10,Minggu,Bencana Kebakaran,Masyarakat,21:15,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,5,1000000000
+1391,29,10,Selasa,Bencana Kebakaran,Masyarakat,7:20,Lubang Buaya,Cipayung,Kota Administrasi Jakarta Timur,Rumah tinggal,Bangunan Rendah,Listrik,2,10000000
+1392,29,10,Selasa,Bencana Kebakaran,Masyarakat,9:47,Kemanggisan,Palmerah,Kota Administrasi Jakarta Barat,Gedung SMU 78 Lt. 4,Bangunan Rendah,Lain,,5000000
+1393,29,10,Selasa,Bencana Kebakaran,Masyarakat,14:10,Pejaten Timur,Pasar Minggu,Kota Administrasi Jakarta Selatan,1 Rumah tinggal,Bangunan Rendah,Listrik,26,1000000000
+1399,29,10,Selasa,Bencana Kebakaran,Masyarakat,19:05,Petogogan,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Kabrl Udara PLN,,Listrik,,3000000
+1404,30,10,Rabu,Bencana Kebakaran,Petugas Instansi Lain,14:35,Pasar baru,Sawah Besar,Kota Administrasi Jakarta Pusat,Rumah Tinggal,,Listrik,24,500000000
+1405,31,10,Kamis,Bencana Kebakaran,Masyarakat,3:15,Kampung Bali,Tanah Abang,Kota Administrasi Jakarta Pusat,Rumah Tinggal,,Listrik,6,50000000
+1406,31,10,Kamis,Bencana Kebakaran,Masyarakat,6:10,Harapan Mulia,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,,Listrik,25,250000000
+1407,31,10,Kamis,Bencana Kebakaran,Masyarakat,13:00,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Rumah Kontrakan,Bangunan Rendah,Listrik,1,2000000
+1408,31,10,Kamis,Bencana Kebakaran,Masyarakat,23:30,Duren Sawit,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,,2000000
+1409,1,11,Jumat,Bencana Kebakaran,Petugas Instansi Lain,2:30,Kamal,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Kompor,,5000000
+1410,1,11,Jumat,Bencana Kebakaran,Petugas Instansi Lain,11:30,Gambir,Gambir,Kota Administrasi Jakarta Pusat,Genset,,Listrik,,25000000
+1412,2,11,Sabtu,Bencana Kebakaran,Petugas Pemadam,0:30,Joglo,Kembangan,Kota Administrasi Jakarta Barat,Rumah tinggal semi permanen,Bangunan Rendah,Listrik,4,150000000
+1414,2,11,Sabtu,Bencana Kebakaran,Masyarakat,15:20,Menteng Dalam,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,,15000000
+1415,3,11,Minggu,Bencana Kebakaran,Masyarakat,1:10,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Warung Bakso,,Listrik,,1000000
+1416,3,11,Minggu,Bencana Kebakaran,Masyarakat,10:10,Sunter Agung,Tanjung Priok,Kota Administrasi Jakarta Utara,Bedeng Proyek,Bangunan Rendah,Listrik,,18000000
+1417,3,11,Minggu,Bencana Kebakaran,Masyarakat,19:40,Rorotan,Cilincing,Kota Administrasi Jakarta Utara,Gardu Listrik,,Listrik,,5000000
+1418,3,11,Minggu,Bencana Kebakaran,Masyarakat,21:15,Pisangan Baru,Matraman,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Kompor,5,2000000
+1419,4,11,Senin,Bencana Kebakaran,Petugas Pemadam,9:45,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal & Gudang,Bangunan Rendah,Listrik,,10000000
+1420,4,11,Senin,Bencana Kebakaran,Petugas Pemadam,15:15,Lenteng Agung,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Tinggal Lt. 2,Bangunan Rendah,Lain,6,175000000
+1421,4,11,Senin,Bencana Kebakaran,Petugas Pemadam,19:10,Bambu Apus,Cipayung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,3,1000000
+1422,5,11,Selasa,Bencana Kebakaran,Masyarakat,4:20,Ulujami,Pesanggrahan,Kota Administrasi Jakarta Selatan,Rumah tinggal di Lt. 2,Bangunan Rendah,Listrik,4,200000000
+1423,4,11,Senin,Bencana Kebakaran,Petugas Pemadam,11:40,kalideres,Kalideres,Kota Administrasi Jakarta Barat,Rumah tinggal,Bangunan Rendah,Listrik,6,200000000
+1424,5,11,Selasa,Bencana Kebakaran,Masyarakat,12:20,Bungur,Senen,Kota Administrasi Jakarta Pusat,Mobil,,Lain,,40000000
+1425,5,11,Selasa,Bencana Kebakaran,Masyarakat,16:15,Pejaten Barat,Pasar Minggu,Kota Administrasi Jakarta Selatan,Kabel Udara PLN,,Listrik,,1000000
+1426,5,11,Selasa,Bencana Kebakaran,Masyarakat,19:05,Pejaten Barat,Pasar Minggu,Kota Administrasi Jakarta Selatan,Kabel Udara PLN,,Listrik,,1000000
+1431,5,11,Selasa,Bencana Kebakaran,Masyarakat,22:05,Rorotan,Cilincing,Kota Administrasi Jakarta Utara,Lapak Madura,Bangunan Rendah,Listrik,18,40000000
+1432,6,11,Rabu,Bencana Kebakaran,Masyarakat,12:20,Rawamangun,Pulogadung,Kota Administrasi Jakarta Timur,Mobil Sedan Altis,,Listrik,,10000000
+1434,6,11,Rabu,Bencana Kebakaran,Masyarakat,23:25,Kebon Manggis,Matraman,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,80,900000000
+1435,6,11,Rabu,Bencana Kebakaran,Masyarakat,17:00,Cempaka Baru,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Kompor,20,5000000
+1436,7,11,Kamis,Bencana Kebakaran,Masyarakat,4:45,Kalideres,Kalideres,Kota Administrasi Jakarta Barat,Warung Klontong,Bangunan Rendah,Listrik,3,96000000
+1437,7,11,Kamis,Bencana Kebakaran,Masyarakat,22:10,Tegal Alur,Kalideres,Kota Administrasi Jakarta Barat,Ruang kantor,Bangunan Rendah,Listrik,,30000000
+1439,8,11,Jumat,Bencana Kebakaran,Masyarakat,19:50,Utan Kayu Selatan,Matraman,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,3,100000000
+1441,9,11,Sabtu,Bencana Kebakaran,Masyarakat,8:30,Kelapa Gading Timur,Kelapa Gading,Kota Administrasi Jakarta Utara,Panel Listrik,,Listrik,,1000000
+1442,9,11,Sabtu,Bencana Kebakaran,Masyarakat,14:55,Rawa Badak Selatan,Koja,Kota Administrasi Jakarta Utara,Mobil KWK 07,,Listrik,,70000000
+1443,9,11,Sabtu,Bencana Kebakaran,Masyarakat,22:10,Cipinang,Pulogadung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,2,10000000
+1444,9,11,Sabtu,Bencana Kebakaran,Masyarakat,16:10,Kembangan Selatan,Kembangan,Kota Administrasi Jakarta Barat,Ruko,,Listrik,,200000000
+1445,10,11,Minggu,Bencana Kebakaran,Masyarakat,22:45,Cakung Timur,Cakung,Kota Administrasi Jakarta Timur,Truck Container,,Listrik,,125000000
+1446,10,11,Minggu,Bencana Kebakaran,Masyarakat,21:45,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Kabel Udara PLN,,Listrik,,1000000
+1447,11,11,Senin,Bencana Kebakaran,Masyarakat,3:30,Lebak Bulus,Cilandak,Kota Administrasi Jakarta Selatan,Rumah Makan,Bangunan Rendah,Listrik,10,900000000
+1449,11,11,Senin,Bencana Kebakaran,Masyarakat,13:15,Pluit,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Pompa,,Listrik,,10000000
+1450,12,11,Selasa,Bencana Kebakaran,Masyarakat,2:20,Pekayon,Pasar Rebo,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,,60000000
+1453,13,11,Rabu,Bencana Kebakaran,Masyarakat,9:10,Cilincing,Cilincing,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Menengah,Kompor,44,1200000000
+1454,13,11,Rabu,Bencana Kebakaran,Petugas Pemadam,22:40,Pancoran,Pancoran,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Menengah,Listrik,4,450000000
+1457,14,11,Kamis,Bencana Kebakaran,Petugas Instansi Lain,11:20,Paseban,Senen,Kota Administrasi Jakarta Pusat,Genset,,Listrik,,200000000
+1458,14,11,Kamis,Bencana Kebakaran,Masyarakat,18:00,Kedoya Utara,Kebun Jeruk,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,,10000000
+1461,16,11,Sabtu,Bencana Kebakaran,Masyarakat,3:10,Semper Timur,Cilincing,Kota Administrasi Jakarta Utara,Tumpukan Besi Tua,,Listrik,1,10000000
+1462,16,11,Sabtu,Bencana Kebakaran,Masyarakat,10:45,Rawa Terate,Cakung,Kota Administrasi Jakarta Timur,Limbah Batu Bara,Bangunan Rendah,Lain,,1000000
+1463,16,11,Sabtu,Bencana Kebakaran,Petugas Pemadam,12:40,Cilandak Barat,Cilandak,Kota Administrasi Jakarta Selatan,Rumah Tinggal penjaga sekolah,Bangunan Rendah,Listrik,3,10000000
+1464,16,11,Sabtu,Bencana Kebakaran,Masyarakat,16:00,Cipete Selatan,Cilandak,Kota Administrasi Jakarta Selatan,Kabel Udara PLN,,Listrik,,10000000
+1465,17,11,Minggu,Bencana Kebakaran,Masyarakat,11:00,Tambora,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,,2000000
+1466,17,11,Minggu,Bencana Bangunan Runtuh (operasi penyelamatan Collapse Structure).,Petugas Instansi Lain,13:30,Maphar,Tamansari,Kota Administrasi Jakarta Barat,Pohon Tumbang,,Lain,,50000000
+1470,17,11,Minggu,Bencana Bangunan Runtuh (operasi penyelamatan Collapse Structure).,Masyarakat,14:45,Munjul,Cipayung,Kota Administrasi Jakarta Timur,Pohon Tumbang,,Lain,,5700000
+1471,18,11,Senin,Bencana Kebakaran,Masyarakat,1:10,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,30,60000000
+1472,18,11,Senin,Bencana Kebakaran,Masyarakat,2:30,Kampung Rawa,Johar Baru,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,12,100000000
+1473,18,11,Senin,Bencana Kebakaran,Petugas Pemadam,13:00,Tugu Selatan,Koja,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,7,500000000
+1474,18,11,Senin,Bencana Kebakaran,Masyarakat,15:40,Ancol,Pademangan,Kota Administrasi Jakarta Utara,Gardu Listrik,Bangunan Rendah,Listrik,,3000000
+1475,19,11,Selasa,Bencana Kebakaran,Masyarakat,3:20,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Gardu Listrik,Bangunan Rendah,Listrik,,100000000
+1476,19,11,Selasa,Bencana Kebakaran,Masyarakat,11:40,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Kompor,15,15000000
+1477,19,11,Selasa,Bencana Kebakaran,Masyarakat,14:55,Gedong,Pasar Rebo,Kota Administrasi Jakarta Timur,Mobil Bus,,Listrik,,250000000
+1478,19,11,Selasa,Bencana Kebakaran,Petugas Instansi Lain,17:30,Pinangsia,Tamansari,Kota Administrasi Jakarta Barat,Ruko,Bangunan Rendah,Lain,,20000000
+1479,19,11,Selasa,Bencana Kebakaran,Masyarakat,20:45,Tangerang,Tangerang,Kota Tangerang,Pasar Cipondoh,Bangunan Menengah,Listrik,,1000000000
+1480,19,11,Selasa,Bencana Kebakaran,Petugas Pemadam,15:20,Bungur,Senen,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Kompor,20,1000000000
+1482,21,11,Kamis,Bencana Kebakaran,Masyarakat,21:10,Pegangsaan,Menteng,Kota Administrasi Jakarta Pusat,Stasiun Cikini,Bangunan Rendah,Listrik,,5000000
+1483,21,11,Kamis,Bencana Kebakaran,Petugas Instansi Lain,21:35,Melawai,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Crane,,Listrik,,100000000
+1484,21,11,Kamis,Bencana Kebakaran,Masyarakat,23:15,Petukangan Utara,Pesanggrahan,Kota Administrasi Jakarta Selatan,Ruko,Bangunan Rendah,Listrik,8,300000000
+1485,22,11,Jumat,Bencana Kebakaran,Masyarakat,9:55,Lubang Buaya,Cipayung,Kota Administrasi Jakarta Timur,Bengkel Motor,Bangunan Rendah,Listrik,,40000000
+1486,22,11,Jumat,Bencana Kebakaran,Masyarakat,14:25,Pisangan Baru,Matraman,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,2,750000000
+1487,22,11,Jumat,Bencana Kebakaran,Masyarakat,20:00,Paseban,Senen,Kota Administrasi Jakarta Pusat,Gedung Gereja Advent,Bangunan Menengah,Listrik,,200000000
+1488,23,11,Sabtu,Bencana Kebakaran,Masyarakat,10:00,cipinang besar selatan,Jatinegara,Kota Administrasi Jakarta Timur,Bedeng,Bangunan Rendah,Listrik,,100000000
+1489,23,11,Sabtu,Bencana Kebakaran,Masyarakat,14:40,Grogol Utara,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Rukan,Bangunan Rendah,Listrik,,120000000
+1490,24,11,Minggu,Bencana Kebakaran,Masyarakat,5:00,Tangerang,Tangerang,Kota Tangerang,Rumah Tinggal,Bangunan Rendah,Kompor,6,30000000
+1494,26,11,Selasa,Bencana Kebakaran,Petugas Pemadam,2:20,Srengseng Sawah,Jagakarsa,Kota Administrasi Jakarta Selatan,Kantin Universitas Pancasial,Bangunan Rendah,Listrik,,380000000
+1495,26,11,Selasa,Bencana Kebakaran,Masyarakat,6:00,Pasar Manggis,Setiabudi,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,2,84000000
+1496,26,11,Selasa,Bencana Kebakaran,Masyarakat,11:15,Menteng,Menteng,Kota Administrasi Jakarta Pusat,Kabel Telkom + intercom,,Listrik,,10000000
+1498,27,11,Rabu,Bencana Kebakaran,Petugas Instansi Lain,8:15,Rawa Terate,Cakung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,3,500000000
+1499,27,11,Rabu,Bencana Kebakaran,Petugas Instansi Lain,23:35,Bintaro,Pesanggrahan,Kota Administrasi Jakarta Selatan,Box Listrik,,Listrik,,2000000
+1500,28,11,Kamis,Bencana Kebakaran,Masyarakat,7:40,Kebagusan,Pasar Minggu,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,6,10000000
+1501,28,11,Kamis,Bencana Kebakaran,Masyarakat,9:05,Petogogan,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Rumah Tinggal + Garasi,Bangunan Rendah,Listrik,4,200000000
+1502,28,11,Kamis,Bencana Kebakaran,Petugas Pemadam,14:15,Kapuk Muara,Penjaringan,Kota Administrasi Jakarta Utara,Ruko UD Perkasa Makmur,Bangunan Menengah,Listrik,,100000000
+1503,28,11,Kamis,Bencana Kebakaran,Masyarakat,16:50,Pademangan Barat,Pademangan,Kota Administrasi Jakarta Utara,Lapak dan Ruko,Bangunan Menengah,Listrik,,2000000000
+1504,28,11,Kamis,Pertolongan Gawat Darurat (Ambulan Transportasi).,Masyarakat,18:00,Pondok Kelapa,Duren Sawit,Kota Administrasi Jakarta Timur,Pohon Tumbang,,Lain,,10000000
+1505,28,11,Kamis,Bencana Kebakaran,Masyarakat,17:36,Pegadungan,Kalideres,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,3,8000000
+1506,29,11,Jumat,Bencana Kebakaran,Masyarakat,7:10,Batu Ampar,Kramat Jati,Kota Administrasi Jakarta Timur,Kantor,Bangunan Rendah,Listrik,,700000000
+1509,29,11,Jumat,Bencana Kebakaran,Masyarakat,16:05,Gandaria Utara,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Ruko Photo Copy,Bangunan Rendah,Listrik,,190000000
+1510,29,11,Jumat,Bencana Kebakaran,Masyarakat,19:20,Pangadegan,Pancoran,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,,20000000
+1512,29,11,Jumat,Bencana Kebakaran,Masyarakat,20:08,Cipinang,Pulogadung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Listrik,16,800000000
+1513,30,11,Sabtu,Bencana Kebakaran,Masyarakat,1:45,Sunter Agung,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,4,25000000
+1515,30,11,Sabtu,Bencana Kebakaran,Masyarakat,10:02,Jagakarsa,Jagakarsa,Kota Administrasi Jakarta Selatan,Toko Mebel,Bangunan Rendah,Listrik,5,400000000
+1517,30,11,Sabtu,Bencana Kebakaran,Masyarakat,18:20,Gunung Sahari Selatan,Kemayoran,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,3,750000000
+1518,30,11,Sabtu,Bencana Kebakaran,Masyarakat,15:25,Meruya Utara,Kembangan,Kota Administrasi Jakarta Barat,Show Room Mobil Suzuki,Bangunan Rendah,Lain,,300000000
+1520,1,12,Minggu,Bencana Kebakaran,Masyarakat,6:30,Makasar,Makasar,Kota Administrasi Jakarta Timur,Rumah Tinggal LT. II,Bangunan Rendah,Listrik,4,20000000
+1521,1,12,Minggu,Bencana Kebakaran,Petugas Pemadam,14:02,Rawa Terate,Cakung,Kota Administrasi Jakarta Timur,Mobil angkot,,Listrik,,50000000
+1522,1,12,Minggu,Bencana Kebakaran,Petugas Pemadam,16:30,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,3,7000000
+1523,2,12,Senin,Bencana Kebakaran,Masyarakat,5:05,Bekasi,Bekasi,Kota Bekasi,Ruko,Bangunan Tinggi,Listrik,,1250000000
+1524,2,12,Senin,Bencana Kebakaran,Masyarakat,12:03,Pulo,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,,2000000
+1525,2,12,Senin,Bencana Transportasi (operasi penyelamatan Transportasi).,Petugas Instansi Lain,6:30,Kebon Jeruk,Kebun Jeruk,Kota Administrasi Jakarta Barat,Truk Tangki Petamina,,Lain,,500000000
+1526,2,12,Senin,Bencana Kebakaran,Masyarakat,8:30,Tangerang,Tangerang,Kota Tangerang,Gudang,Bangunan Menengah,Listrik,,1000000000
+1527,2,12,Senin,Bencana Kebakaran,Masyarakat,19:30,Cengkareng Barat,Cengkareng,Kota Administrasi Jakarta Barat,Kabel udara,,Listrik,,10000000
+1528,3,12,Selasa,Bencana Kebakaran,Petugas Instansi Lain,19:10,Kapuk,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Kompor,4,10000000
+1529,3,12,Selasa,Bencana Kebakaran,Masyarakat,7:20,Jagakarsa,Jagakarsa,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Listrik,4,10000000
+1530,4,12,Rabu,Bencana Kebakaran,Masyarakat,16:35,Pegadungan,Kalideres,Kota Administrasi Jakarta Barat,Lapak Bensin Eceran,Bangunan Rendah,Lain,,3500000
+1532,4,12,Rabu,Bencana Kebakaran,Petugas Instansi Lain,20:20,Kembangan Selatan,Kembangan,Kota Administrasi Jakarta Barat,Mobil,,Listrik,,175000000
+1533,5,12,Kamis,Bencana Kebakaran,Masyarakat,14:50,Lubang Buaya,Cipayung,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,28,250000000
+1534,7,12,Sabtu,Bencana Kebakaran,Masyarakat,2:05,Papanggo,Tanjung Priok,Kota Administrasi Jakarta Utara,Apartemen,Bangunan Tinggi,Listrik,3,45000000
+1535,7,12,Sabtu,Bencana Kebakaran,Masyarakat,10:55,Kebon Bawang,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Menengah,Listrik,3,1000000000
+1536,7,12,Sabtu,Bencana Kebakaran,Masyarakat,19:30,Cipete Selatan,Cilandak,Kota Administrasi Jakarta Selatan,Tabung Gas LPG + Slang,,Lain,,1000000
+1537,7,12,Sabtu,Bencana Kebakaran,Masyarakat,20:00,Ciganjur,Jagakarsa,Kota Administrasi Jakarta Selatan,Kompor Gas,,Lain,,5000000
+1538,8,12,Minggu,Bencana Kebakaran,Masyarakat,1:00,Sunter Agung,Tanjung Priok,Kota Administrasi Jakarta Utara,Sekolah,Bangunan Menengah,Listrik,,20000000
+1539,8,12,Minggu,Bencana Kebakaran,Masyarakat,11:05,Kedaung Kali Angke,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,21,700000000
+1541,9,12,Senin,Bencana Kebakaran,Masyarakat,14:45,Tanjung Priok,Tanjung Priok,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,4,15000000
+1544,10,12,Selasa,Bencana Kebakaran,Masyarakat,5:50,Tanah Sereal,Tambora,Kota Administrasi Jakarta Barat,Rumah Tinggal,Bangunan Rendah,Listrik,54,1000000000
+1545,10,12,Selasa,Bencana Kebakaran,Masyarakat,9:00,Cengkareng Timur,Cengkareng,Kota Administrasi Jakarta Barat,Rumah Kontrakan,Bangunan Rendah,Listrik,15,225000000
+1548,12,12,Kamis,Bencana Kebakaran,Masyarakat,11:55,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Sebagian kamar tempat ibadah,Bangunan Rendah,Lain,8,5000000
+1549,13,12,Jumat,Bencana Kebakaran,Masyarakat,20:00,Semper Barat,Cilincing,Kota Administrasi Jakarta Utara,Box Listrik,,Listrik,,5000000
+1550,13,12,Jumat,Bencana Kebakaran,Masyarakat,10:00,Sumur Batu,Kemayoran,Kota Administrasi Jakarta Pusat,Kios Bensin Eceran,,Rokok,,1000000
+1551,14,12,Sabtu,Bencana Kebakaran,Masyarakat,4:35,Semanan,Kalideres,Kota Administrasi Jakarta Barat,Toko Kelontong,Bangunan Rendah,Listrik,,30000000
+1552,15,12,Minggu,Bencana Kebakaran,Petugas Instansi Lain,1:30,Kalibata,Pancoran,Kota Administrasi Jakarta Selatan,Sepeda Motor,,Listrik,,6500000
+1553,15,12,Minggu,Bencana Kebakaran,Masyarakat,5:25,Penjaringan,Penjaringan,Kota Administrasi Jakarta Utara,Salon/Spa,Bangunan Rendah,Listrik,3,15000000
+1554,16,12,Senin,Bencana Kebakaran,Masyarakat,11:00,Bukit Duri,Tebet,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,5,2000000
+1555,16,12,Senin,Bencana Kebakaran,Masyarakat,14:00,Pasar minggu,Pasar Minggu,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,6,5000000
+1556,16,12,Senin,Bencana Kebakaran,Masyarakat,18:30,Tanjung Priok,Tanjung Priok,Kota Administrasi Jakarta Utara,Kabel Tiang Listrik,,Listrik,,10000000
+1557,16,12,Senin,Bencana Kebakaran,Petugas Pemadam,9:35,Kebon Kacang,Tanah Abang,Kota Administrasi Jakarta Pusat,Kebocoran Pada Selang Freon,,Lain,,200000000
+1558,17,12,Selasa,Bencana Kebakaran,Petugas Pemadam,21:10,Pasar Manggis,Setiabudi,Kota Administrasi Jakarta Selatan,Kabel Udara PLN,,Listrik,,2000000
+1559,18,12,Rabu,Bencana Kebakaran,Masyarakat,17:25,Palmerah,Palmerah,Kota Administrasi Jakarta Barat,Kabel Udara PLN,,Listrik,,1000000
+1560,19,12,Kamis,Bencana Kebakaran,Masyarakat,10:30,Petojo Utara,Gambir,Kota Administrasi Jakarta Pusat,Ruang Karaoke dan Spa,Bangunan Rendah,Listrik,,150000000
+1561,19,12,Kamis,Bencana Kebakaran,Masyarakat,13:10,Tugu Utara,Koja,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,7,50000000
+1562,20,12,Jumat,Bencana Kebakaran,Masyarakat,21:40,Tangerang,Tangerang,Kota Tangerang,Rumah Konveksi,Bangunan Rendah,Listrik,,3000000000
+1563,20,12,Jumat,Bencana Kebakaran,Masyarakat,23:30,Pejagalan,Penjaringan,Kota Administrasi Jakarta Utara,Rumah Tinggal,Bangunan Rendah,Listrik,60,950000000
+1565,21,12,Sabtu,Bencana Kebakaran,Masyarakat,13:27,Petukangan Selatan,Pesanggrahan,Kota Administrasi Jakarta Selatan,Lapak Pemulung,Bangunan Rendah,Lain,4,20000000
+1566,22,12,Minggu,Bencana Kebakaran,Masyarakat,1:50,Karang Anyar,Sawah Besar,Kota Administrasi Jakarta Pusat,Counter HP Lt.4,Bangunan Rendah,Listrik,,50000000
+1567,22,12,Minggu,Bencana Kebakaran,Masyarakat,3:55,Menteng Dalam,Tebet,Kota Administrasi Jakarta Selatan,Rumah Bedeng,Bangunan Rendah,Listrik,30,50000000
+1570,23,12,Senin,Bencana Kebakaran,Masyarakat,23:45,Kebon Kosong,Kemayoran,Kota Administrasi Jakarta Pusat,Panel Box Listrik Alfamart,Bangunan Rendah,Listrik,,5000000
+1571,24,12,Selasa,Bencana Kebakaran,Petugas Instansi Lain,12:07,Pulo,Kebayoran Baru,Kota Administrasi Jakarta Selatan,Ruang Gudang,Bangunan Rendah,Listrik,3,5000000
+1572,24,12,Selasa,Bencana Kebakaran,Masyarakat,13:48,Pasar Manggis,Setiabudi,Kota Administrasi Jakarta Selatan,Rumah Tinggal,Bangunan Rendah,Lain,1,50000000
+1573,24,12,Selasa,Bencana Kebakaran,Masyarakat,10:00,Ceger,Cipayung,Kota Administrasi Jakarta Timur,Gedung Graha Lukisan,Bangunan Rendah,Listrik,,10000000
+1574,24,12,Selasa,Bencana Kebakaran,Masyarakat,10:00,Kalisari,Pasar Rebo,Kota Administrasi Jakarta Timur,Rumah Tinggal,Bangunan Rendah,Lain,4,50000000
+1576,24,12,Selasa,Bencana Kebakaran,Petugas Instansi Lain,21:55,Pisangan Baru,Matraman,Kota Administrasi Jakarta Timur,Mobil Yaris B 1525 KMA,,Listrik,,20000000
+1577,25,12,Rabu,Bencana Kebakaran,Masyarakat,14:38,Pondok Kelapa,Duren Sawit,Kota Administrasi Jakarta Timur,Rumah Kontrakan,Bangunan Rendah,Listrik,13,600000000
+1578,25,12,Rabu,Bencana Kebakaran,Petugas Instansi Lain,10:33,Karang Anyar,Sawah Besar,Kota Administrasi Jakarta Pusat,Ruko,Bangunan Rendah,Listrik,,10000000
+1579,26,12,Kamis,Bencana Kebakaran,Masyarakat,17:40,Bendungan Hilir,Tanah Abang,Kota Administrasi Jakarta Pusat,Rumah Tinggal,Bangunan Rendah,Listrik,6,150000000
+1580,26,12,Kamis,Bencana Kebakaran,Masyarakat,20:35,Kebon Kacang,Tanah Abang,Kota Administrasi Jakarta Pusat,Sepeda Motor,,Lain,,10000000
+1582,27,12,Jumat,Bencana Kebakaran,Petugas Pemadam,8:25,Kramat Jati,Kramat Jati,Kota Administrasi Jakarta Timur,Mobil Angkot B 2290 VY,,Listrik,,10000000
+1583,27,12,Jumat,Bencana Kebakaran,Masyarakat,9:20,Gambir,Gambir,Kota Administrasi Jakarta Pusat,Restoran Hoka Hoka Bento,Bangunan Rendah,Lain,,500000000
+1585,28,12,Sabtu,Bencana Kebakaran,Petugas Pemadam,19:05,Kembangan Selatan,Kembangan,Kota Administrasi Jakarta Barat,Box Meter Listrik,Bangunan Rendah,Listrik,,1000000
+1586,29,12,Minggu,Bencana Kebakaran,Masyarakat,4:05,Rawajati,Pancoran,Kota Administrasi Jakarta Selatan,Warung Makan,Bangunan Rendah,Lain,,750000000
+1587,29,12,Minggu,Bencana Kebakaran,Petugas Pemadam,4:20,Tangerang,Tangerang,Kota Tangerang,Kios Buah,Bangunan Rendah,Listrik,,50000000
+1588,29,12,Minggu,Bencana Transportasi (operasi penyelamatan Transportasi).,Petugas Instansi Lain,5:20,Pondok Pinang,Kebayoran Lama,Kota Administrasi Jakarta Selatan,Mobil Tangki Pertamina,,Lain,,1000000000
+1589,29,12,Minggu,Bencana Kebakaran,Masyarakat,11:45,Kalibata,Pancoran,Kota Administrasi Jakarta Selatan,Rumah Tinggal,,Listrik,4,40000000
+1591,31,12,Selasa,Bencana Kebakaran,Masyarakat,6:30,Kampung Rawa,Johar Baru,Kota Administrasi Jakarta Pusat,LL,Bangunan Rendah,Listrik,3,1000000
+1592,31,12,Selasa,Bencana Kebakaran,Masyarakat,11:40,Kelapa Dua,Kebun Jeruk,Kota Administrasi Jakarta Barat,Kompor Gas,Bangunan Rendah,Kompor,3,1000000
